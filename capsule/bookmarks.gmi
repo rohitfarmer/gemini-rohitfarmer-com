@@ -1,0 +1,27 @@
+# Bookmarks
+
+=> / Home
+
+## General purpose Gemini websites
+Gemini search engine
+=> gemini://geminispace.info/
+
+Feed aggregator 
+=> gemini://warmedal.se/~antenna/
+
+## Gemini personal blogs and websites
+Ben's website
+=> gemini://kwiecien.us/
+
+Conman laboratories
+=> gemini://gemini.conman.org/
+
+Rohan Kumar's capsule
+=> gemini://seirdy.one/
+
+Silas S. Brown’s Gemini capsule ( computer scientist at Cambridge University)
+=> gemini://gemini.ctrl-c.club/~ssb22/
+
+StackSmith's basement
+=> gemini://gemini.ctrl-c.club/~stack/
+

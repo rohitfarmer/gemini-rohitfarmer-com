@@ -1,0 +1,54 @@
+# Technical Hobbies
+
+=> / Home
+
+> If you don't select any passion voluntarily, boredom will select you involuntarily. - Amit Kalantri
+
+I am a long-time user and advocate of free and open-source software (FOSS), and most of my technical hobbies/projects are centered around it. On this page, I will list my hobby projects and excerpts and links to articles that resonate with my philosophy.
+
+## Projects
+
+### India Chat
+
+=> https://indiachat.netlify.app/
+
+I have developed https://indiachat.netlify.app/ that lists all the popular public multi-user chatrooms/channels (MUC) related to India on decentralized networks - XMPP, IRC, & \[matrix\]. The motivation is to promote the adoption and use of decentralized and federated communication platforms. In the current era of mass surveillance by corporate giants, the true essence of the internet is to make it more decentralized and bring the power to control users' data back to users.
+
+### Ham Radio
+
+I earned my ham radio liscence (technician) on August 4, 2021 with the call sign KC3SNU
+=> https://www.qrz.com/db/KC3SNU
+
+Bands, Frequencies, and Modes:
+*   KV3B repeater, 2 meters, 146.955, -0.6 MHz, FM (dual-band HT)
+*   EchoLink (computer)
+
+Gear I own:
+1.  Radioddity GS-5B with Nagoya NA-24j VHF/UHF antenna and Radioddity RS22 speaker mic.
+
+Software I use:
+*   EchoLink (Windows 10 and Android)
+*   Repeater Book (Android)
+*   HamClock (Android)
+
+### Bioinfo Bot
+
+Latest: Website under construction.
+
+[Bioinfo Bot](https://twitter.com/bioinfobot) is a Twitter bot collecting tweets from bioinformaticians/computational biologists worldwide since 2017. Besides tweet collection, the bot periodically searches, follows new users, and carries out trend analysis once per month.
+
+Core infrastructure is running on a Google Cloud Platform instance. Python library Tweepy is the main module used to follow people, collect streaming tweets and fetch tweet-related metadata. The captured tweets are stored in flat files per month. Natural Language Toolkit (NLTK) is used for the analysis. At the moment, tweet analysis consists of producing a list of "Top 20 Words", "Top 20 Tweeters", "Top 20 Hashtags," and "Popular Programming Languages & Frameworks." The processed results per month are presented and stored in the form of a word cloud image and a JSON file, respectively. Word cloud is generated using the wordcloud python module.
+
+### Self Hosting
+
+At the moment I am self hosting services only for my personal use. However, in the future I plan to offer resources to general public. Some of the services that I maintain on my tiny Raspberry Pi 3 based home server are:
+
+1.  NGINX for my [experimental website](https://rohitfarmer.ddns.net/) and reverse proxy.
+2.  Calibre for e-books.
+3.  Plex for movies, music, and audio books.
+4.  Lychee (docker) for photography portfolio.
+
+## I Vote For
+
+=> https://growyourown.services/ Grow Your Own Services
+=> https://github.com/awesome-selfhosted/awesome-selfhosted Awesome Selfhosted

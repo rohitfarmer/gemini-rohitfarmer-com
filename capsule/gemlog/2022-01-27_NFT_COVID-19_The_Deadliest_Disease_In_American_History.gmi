@@ -1,0 +1,22 @@
+=> / Home
+=> /gemlog Gemlog
+
+# NFT: COVID-19 The Deadliest Disease In American History
+
+Originally published on Medium: 
+=> https://medium.com/p/ff8def3f5223
+2022-01-27
+
+In September 2021, COVID19 surpassed the death toll of 675,000 of the 1918 Spanish flu pandemic in the USA - becoming the deadliest disease in American history. COVID-19 is caused by a coronavirus called SARS-CoV-2. Spike protein (S) on the surface of the SARS-CoV-2 virus binds to human cells by recognizing the ACE2 protein receptor. This binding facilitates the fusion of the virus to human cells leading to the injection of the viral genetic material into the human cells. Once inside the human cells, viral genetic material utilizes host machinery to produce more copies of the SARS-CoV-2 virus.
+
+This single copy of [NFT (24 X 36-inch poster)](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/93357100954418951181109649094500711171266769619013119836688567805271171137537) commemorates the record-breaking deaths in the USA by rendering the spike protein in 675,001 ([download & zoom](https://github.com/rohitfarmer/covid19-nft/raw/main/COVID19-NFT-OpenSea.png)) unique combinations of RGB (red, green, and blue) color codes. These 675,001 colors are randomly sampled from all the possible (16,777,216) computer-generated colors. It's a work of several weeks of computation that involved generating hex codes from all the possible combinations of RGB values, rendering individual spike protein structures into unique colors, stitching individual images into rows to cover the width of the poster, and then stacking rows to cover the height of the poster. All the steps were carried out programmatically in the R programming language.
+
+***Note:*** *The pixels in the poster are* [*SARS-CoV-2 protein structures*](https://github.com/rohitfarmer/covid19-nft/blob/main/sars_cov_2.png); to *visualize individual pixels, download the medium resolution file distributed freely from* [*https://github.com/rohitfarmer/covid19-nft/raw/main/COVID19-NFT-OpenSea.png*](https://github.com/rohitfarmer/covid19-nft/raw/main/COVID19-NFT-OpenSea.png) *and stretch the image to the maximum.*
+
+***Note:*** *In addition to the PNG file hosted on* [*OpenSea*], the owner will also get the poster in high-resolution PDF format. A 677-page technical specifications document that describes the technical details and lists all the 675,001 unique RGB (hex) color codes are provided for free - download it from* [*https://github.com/rohitfarmer/covid19-nft*](https://github.com/rohitfarmer/covid19-nft)*.*
+
+## References
+1.  [COVID Has Killed More Americans Than the Spanish Flu Did in 1918](https://www.usnews.com/news/health-news/articles/2021-09-21/covid-has-killed-more-americans-than-the-spanish-flu-did-in-1918)
+2.  [COVID-19 Has Now Killed About As Many Americans As The 1918-19 Flu](https://www.npr.org/sections/coronavirus-live-updates/2021/09/20/1039071274/covid-19-deaths-1918-19-flu-pandemic)
+3.  [RCSB: COVID-19/SARS-CoV-2 Resources](https://rcsb.org/covid19)
+4.  [Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein](https://www.sciencedirect.com/science/article/pii/S0092867420302622)

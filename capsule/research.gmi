@@ -1,0 +1,36 @@
+# Research
+
+=> / Home
+
+> Research is what I'm doing when I don't know what I'm doing. - Wernher von Braun
+
+Presently I am working as a Computational Biologist at the Center for Human Immunology, Autoimmunity and Inflammation (CHI), National Institutes of Health, Bethesda, Maryland, USA. I am building tools to analyze data on multiple platforms such as CyTOF, high parameter flow cytometry, and SomaLogic. I perform analyses ranging from classical statistics to machine/deep learning.
+
+In the past, I have also worked with protein structure/complex prediction, modeling protein-protein interactions, molecular dynamics simulations, virtual screening, and sequence analysis. More details on the specific research projects are available in the sections below.
+
+## Past Research
+### Postdoctoral Research
+Place: Deparment of Pathology and Immunology, Washington University School of Medicine, USA
+Supervisor: Dr. S. Joshua Swamidass
+During my short (1 year) postdoctoral research position, I applied deep learning to large-scale molecular data to understand drug bioactivation and toxicity.
+
+### Doctoral Research
+Place: University of Birmingham, UK
+Thesis Title: Modelling polyketide synthases and related macromolecular complexes
+Supervisors: Dr. Peter Winn, Prof. Christopher M. Thomas
+E-thesis: http://etheses.bham.ac.uk/5909/
+
+Thesis Abstract
+Polyketide synthases (PKS) are enzyme complexes that synthesise many natural products of medicinal interest, notably a large number of antibiotics. The present work investigated the mupirocin biosynthesis system, comparing it with similar pathways such as thiomarinol and kalimantacin. The focus was on the structural modelling of the protein complexes involved in antibiotic synthesis, via molecular simulation and the analysis of structural and sequence data. Structural docking of acyl carrier proteins (ACP) cognate for an HMG-CoA synthase orthologue responsible for β-methylation (MupH) identified key residues involved in the recognitions specificity of the interacting partners, further supported by mutagenesis experiments, which thus allows prediction of β-methylation sites in PKS. Moreover, complementation and mutagenesis experiments performed on MupH homologs from kalimantacin and thiomarinol systems suggests specificity between the ACP:HCS proteins in the β-branching suggesting the possibility of engineering multiple specific β-branching modifications into the same pathway. Molecular dynamics simulations of ACPs from the mupirocin cluster revealed that the PKS ACPs form a cavity upon the attachment of the phosphopantetheine and acyl chains similar to what is seen in the fatty acid synthase ACPs and provide a better understanding of the structure function relationship in these small proteins. Molecular docking of the putative cognate substrate with the ketosynthase (KS) homo dimer of module 5 of the MmpA in the mupirocin pathway revealed a loop that may control specificity for the α-hydroxylated substrate and mutagenesis experiments support this proposition.
+
+### Master's Project
+Place: Sam Higginbottom Institute of Agriculture, Technology, and Sciences, India
+Project Title: Epigenetic changes induced by Listeriolysin O modulated histone modifications in Listeria monocytogenes
+Supervisor: Dr. Budhayash Gautam
+The work entitled above was conducted as part of my master’s final semester project. The project aimed to understand the epigenetic changes due to histone modifications by a class of bacterial toxins utilizing the publicly available gene expression data. As a master's student, this project built my expertise in programming in R and several Bioconductor packages. The methodology included the determination of differentially expressed genes followed by clustering analysis using various partition and hierarchical-based clustering methods. The final list of genes was annotated using the gene ontology database. The results showed interesting findings that may contribute to understanding the effects of epigenetic changes in various host-pathogen interactions.
+
+### Bachelor's Project
+Place: National Institute of Plant Genome Research, India
+Project Title: Comparative Modelling of Steroidogenic Acute Regulatory Lipid Transfer Domains in Arabidopsis thaliana
+Supervisor: Dr. Gitanjali Yadav
+Steroidogenic Acute Regulatory Lipid Transfer (START) domains are responsible for transporting Cholesterol molecules from the outer mitochondrial membrane to the inner mitochondrial membrane for steroidogenesis, usually found in mammals. However, recently, they are also found in various plant genomes such as A. thaliana and V. vinifera, amongst others, in large numbers compared to mammals. As the presence of Cholesterol in plants is still a debatable topic, the finding of START domains may be hypothesized to be involved with plant signaling mechanisms by transporting various types of lipids. I was involved in this work during my undergraduate final semester project. I predicted the theoretical model structures of all the 30 START domains in A. thaliana and conducted an active site architecture analysis. The protein structure prediction was carried out by threading and comparative modeling methods, utilizing various online and standalone tools. Active site calculations were performed using VOIDOO and MAPMAN. The output files thus generated were analyzed using Perl and Shell scripts. The results showed that START domains in plants vary in their active site volume and shape, thus allowing a wide variety of molecules to bind; however, the type of molecules that are likely to bind START domains still needs to be determined.

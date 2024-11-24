@@ -1,0 +1,21 @@
+=> / Home
+=> /gemlog Gemlog
+
+# Starting 100 Days To Offload Challenge
+
+Today, on April 29, 2022, I am starting the #100DaysToOffload challenge initiated by Kev Quirk.
+
+=> https://100daystooffload.com/
+
+> The whole point of #100DaysToOffload is to challenge you to publish 100 posts on your personal blog in a year.
+
+I have been writing on and off for a long time on many different platforms. In the past, I have tried writing on a Blogspot blog and WordPress blog, and for several years I also had a WordPress website on shared hosting. Now I have consolidated all my writings to either on Medium or Dev.to and list the latest five posts from both the sources on my website.
+
+Recently I have started this Gemini capsule which so far is a close mirror to my main website and Medium blog posts. However, for this challenge, I aim to use Gemlogs as the primary space to write and syndicate as applicable to my Medium and Dev.to blog. I like the idea of writing on Gemini because it's a text-only protocol, and what else could be better for a distraction-free writing experience. 
+
+For writing, I will use Visual Studio Code remotely connected to my home server that resides the Git repository for this Gemini Capsule. The main advantage of this setup is I can access it from anywhere. Once I have written a blog, I will push it to GitHub first to back it up and then SFTP the .gmi file to my Gemini capsule. 
+
+For posting it to social media, I will post them to Mastodon at @swatantra@fosstodon.org. I also have a Twitter account; maybe I will post it three also - I don't know yet - I will think about it. Twitter can be a very toxic and nasty place, and right now, I do not want to get troubled with all the ugly comments. I just want to write whatever pops up in my mind without thinking much about the consequences. 
+
+So, here it goes, Day 1 of #100DaysToOffload
+

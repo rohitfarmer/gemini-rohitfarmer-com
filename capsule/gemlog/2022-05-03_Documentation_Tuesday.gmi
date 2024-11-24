@@ -1,0 +1,13 @@
+=> / Home
+=> /gemlog Gemlog
+
+# Documentation Tuesday
+From March 2022 onwards, I have decided to dedicate every Tuesday to writing documentation, lab notebooks, and other forms of reports at work. The reason being on Tuesdays, I have most meetings, and it's hard to find a reasonable length of uninterrupted time for deep thinking and concentration. Also, throughout the week, I mainly concentrate on coding and quickly look at results to recode further steps. I write comments in the code but do not always note detailed documentation/reports that may reflect the line of thinking. Or summarize the results in a digestible summary of conclusive thoughts. I hope this exercise will be helpful when I look back at my lab books a couple of months or years from now. Or to someone else who takes over my work.
+
+Day 3 of #100DaysToOffload
+
+Note: For comment(s), please email at rohitfarmer@hotmail.com. Please also mention if I can post your comment(s) here below the article.
+
+
+
+

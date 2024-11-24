@@ -1,0 +1,33 @@
+=> / Home
+=> /gemlog Gemlog
+
+# The Outcome Of Mainstream Social Media Fast 2022
+On March 01, 2022, I wrote a post about my wife and I going on a social media fast during the Lent season in 2022. I used the word Fast because I wanted to simulate a similar experience as Fasting on food, and I imagined that anything that can affect us as starving is probably getting devoid of social media in today's world. We are so addicted to social media that perhaps, for some of us, skipping a meal would not be as devastating as missing a popular moment online. Below are the apps that we decided to uninstall from our phone and only visit via computer if necessary.
+
+1.  Facebook
+2.  Instagram
+3.  Tiktok
+4.  Snapchat
+5.  Twitter
+6.  Reddit
+7.  Quora
+8.  LinkedIn
+
+I do not use Tiktok and Snapchat; they seem to be the most useless of all social media. However, I did uninstall everything else. Unfortunately, my wife couldn't get rid of Facebook as she bought a new phone right before I persuaded her to join this exercise with me, and it was too hard for her not to use her new phone without Facebook.
+
+Our intention for going on this fast was to free ourselves from the pressure of always being connected and participating in everything that was going on around us. And to reclaim some of our time to spend more time in prayer and devotion, reading more physical books, talking to people on the phone, exercising, and weather permitting, being more outdoors with kids. Even though we couldn't achieve all that we wanted, it did open us to the possibility of getting rid of all our social media obligations and still being content and connected with everyone that we care about. From here on, I will only talk about my personal experience. I don't want to get into trouble by misinterpreting my wife; she is capable of writing about her experiences.
+
+I was not much troubled by not having Facebook and Instagram on my phone. I have done that in the past, and now, for several years, Facebook is a giant phone book of people that I have met at least once in my life - if I need to reach out - I can find them in my account. I used to like Instagram because it's one-way communication, and therefore you are not obligated (not always) to follow the person following you. However, as you must have heard on the news or read articles about how Instagram can be toxic to mental health, at one point, it did affect me. I have now reinstated my Instagram accounts (personal and for photography), but I have made my account private this time. I only follow or let followed by family and friends only. Therefore, the streams are restricted, and I can freely post pictures of my kids for their grandparents and relatives. Using Instagram and other platforms, I tried to sell my photos or get some gigs in the past. Still, I eventually realized that unless I take my photography seriously enough to graduate from an amateur to a professional, selling photos or getting professional gigs is not possible. So I have let go of that expectation, and I aim to post for fun and maybe get some comments for improvement. On a similar thought, I started distributing my best photos on unsplash.com so that even if I can not earn anything out of them, they can be helpful to the community. And to date, I have over 1M views and 100k downloads of many of my photos. That in itself is quite a reward.
+
+Twitter and Reddit were the two apps that made me feel the hunger. I was/am addicted to both Twitter and Reddit. I stayed away from Reddit (also from LinkedIn and Quora) or anything similar. However, for Twitter, I bumped into (which I am thankful for now) an alternative called Mastodon. Mastodon is built on the idealogy of decentralization and federation. That means anyone can start their own server (instance) with their rules while still keeping part of the wider Mastodon network. Email is a classic example of both decentralized and federated systems. We can use any of the email providers while still communicating with people using email from other providers. If you wish, you can even start your own email server. Email systems are governed by the protocol rather than the proprietary software created by a single company like Gmail or Hotmail. I found Mastodon intriguing and joined fosstodon.org, a community of FOSS enthusiasts. On Mastodon, you have your own timeline with toots (not tweets) from the people you follow, a local timeline with toots from the people on the same instance (community), and a federated/global timeline that connects all the participating Mastodon instances. I like the community aspect of Mastodon as it brings more engagement with the people who share similar interests while still being part of the global community.
+
+Mastodon is based on the Activity Pub protocol that lets any system built on it communicate with each other. For example, any Mastodon user can like, share, and comment on photos shared on PixelFed - an Instagram alternative built on Activity Pub - without signing up for PixelFed. It's like a Twitter user can comment on a Facebook post or YouTube video. Several social networking systems run on Activity Pub protocol and are collectively called the Fediverse. Though I am guilty of moving to a Twitter alternative and not sticking to the plan 100%, I am glad that I found it.
+
+Besides finding a Twitter alternative, I got a chance to update my long-awaited website. It is still on GitHub pages but more robust and less prone to breaking up. The address has also moved from https://rohitfarmer.github.io to https://rohitfarmer.com. I also discovered the Gemini protocol, an alternative to the HTTP/S protocol that we are most familiar with. It's a text-based protocol that pitches itself in between the minimalist Gopher and the heavy HTTP. Currently, I am using my Gemini Capsule as the primary platform for the #100DaysToOffload challenge.
+
+In the end, per the original idea/goal, I did manage to read two paper books, went on a couple of hikes, spent a little more time with the kids, and I was more regular following my daily devotional for this year, "Leadership Promises for Every Day" by J. C. Maxwell. So, all in all, this exercise was fruitful, and I got a chance to think out of the trap of mainstream social media and stumble upon some cool stuff. As a result, I feel less dependent and able to make use of these platforms in a non-toxic balanced manner. 
+
+Day 5 of #100DaysToOffload
+
+Note: For comment(s), please email at rohitfarmer@hotmail.com. Please also mention if I can post your comment(s) here below the article.
+=> https://tinyletter.com/rohitfarmer Sign up to my newsletter to get all my non-technical blog posts from across the platforms right in your inbox.

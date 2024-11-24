@@ -1,0 +1,13 @@
+=> / Home
+=> /gemlog Gemlog
+
+# Data all the way, etc.
+
+It's been several months since I have written here. I mostly used this space to write about non-technical stuff and participate in the 100DaysToOffLoad challenge, which I have given up on now. With all the craziness of life, time commitment at work, and pursuing other hobbies, it was hard to keep up. And once I discontinued writing regularly for a month, the rhythm never returned. However, I did not spend all the time working. The summer of 2022 was very productive in terms of outdoor activities and picking up new hobbies.
+
+Now, regarding the title of this post. Last year in October, I started a long-term project https://dataalltheway.com/. It's a tutorial website for statistics, data science, and machine learning. Many such websites exist, but most of them are heavily bloated with ads, use dummy datasets in example codes, do not always provide ready-to-execute code, and are dedicated to one programming language. On my website, I aim to use current real-life datasets, give examples in multiple programming languages (with help from volunteers and chat GPT), and provide live or ready-to-execute code in the form of Kaggle or Google Colab notebooks.
+
+So far, it's going on well. It slowed down a bit during November and December (my entire household fell ill). However, since it's a long-term project and I want to provide quality over quantity, I am not worried about the pace. Also, in the past, I have stressed myself out worrying about the pace of my hobby projects, which never resulted in anything positive. Therefore, now, I am going with the flow and letting it build organically.
+
+Note: For comment(s), please email at rohitfarmer@hotmail.com. Please also mention if I can post your comment(s) here below the article.
+=> https://tinyletter.com/rohitfarmer Sign up for my newsletter to get all my non-technical blog posts from across the platforms right in your inbox.
