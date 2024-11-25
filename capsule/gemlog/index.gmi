@@ -1,0 +1,32 @@
+# Gemlog
+
+=> / Home
+
+Welcome to my Gemlog, in addition to writing on this website, I also write at:
+
+=> https://dataalltheway.com 
+
+on topics related to data science and 
+
+=> https://outdoorsyindians.com 
+
+on topics related to outdoor activities.
+
+## 2023
+=> 2023-01-13_Data_all_the_way_etc.gmi 2023-01-13 Data all the way, etc.
+
+## 2022
+=> 2022-07-13_It_Is_Getting_Harder_To_Write_Regularly.gmi 2022-07-13 It Is Getting Harder to Write Regularly
+=> 2022-06-06_It_Is_Often_Easier_To_Cry_Than_To_Act.gmi 2022-06-06 It Is Often Easier To Cry Than To Act
+=> 2022-05-27_Day_10_of_100DaysToOffLoad.gmi 2022-05-27 Day 10 of 100DaysToOffLoad
+=> 2022-05-18_Closure_Is_Important.gmi 2022-05-18 Closure Is Important!
+=> 2022-05-16_How_Do_You_Forgive_Someone.gmi 2022-05-16 How Do You Forgive Someone?
+=> 2022-05-13_Planning_Our_First_Camping_Trip.gmi 2022-05-13 Planning Our First Camping Trip
+=> 2022-05-10_Sometimes_Minimum_Is_Better.gmi 2022-05-10 Sometimes Minimum Is Better
+=> 2022-05-09_The_Outcome_Of_Main_Stream_Social_Media_Fast_2022.gmi 2022-05-09 The Outcome Of Mainstream Social Media Fast 2022
+=> 2022-05-04_How_We_Missed_Our_Second_Daughter's_Birth_on_May_4.gmi 2022-05-04 How We Missed Our Second Daughter's Birth On May 4
+=> 2022-05-03_Documentation_Tuesday.gmi 2022-05-03 Documentation Tuesday
+=> 2022-05-02_My_First_Kayaking_Experience.gmi 2022-05-02 My First Kayaking Experience
+=> 2022-04-29_Starting_100_Days_To_Offload_Challenge.gmi 2022-04-29 Starting 100 Days To Offload Challenge
+
+
