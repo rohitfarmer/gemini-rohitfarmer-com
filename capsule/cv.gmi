@@ -1,14 +1,249 @@
-# Curriculum Vitae/Resume
+# Curriculum Vitae
 
 => / Home
 
 > Show me your resume and I will tell you what occupational diseases you may have. - Steven Magee
 
-## Download Resume/CV
-=> https://github.com/rohitfarmer/cv/raw/master/resume/resume.pdf Industrial Resume PDF 
-=> https://github.com/rohitfarmer/cv/blob/master/academic-cv/nCV.pdf?raw=1 Academic CV PDF
+## Summary
+
+An experienced computational biologist with eight years of post-PhD experience specializing in high-dimensional statistical and machine learning analysis, software and methods development, molecular modeling, molecular dynamics simulation, and bioinformatics. Proficient in several programming languages, software tools, data science packages, website development, and high-performance computing. Accomplished driving projects from concept through data analysis to publication. Self-driven but also an excellent team player.
+
+=> https://scholar.google.co.uk/citations?user=CjajTzYAAAAJ&hl=en Google Scholar
+=> https://www.ncbi.nlm.nih.gov/myncbi/rohit.farmer.2/bibliography/public/ PubMed
+=> https://orcid.org/0000-0003-4197-3047 ORCID
+=> https://www.linkedin.com/in/rohitfarmer LinkedIn
+
+
+## Work Experience
+
+Computational Biologist, 2019-present
+Guidehouse, USA
+On-site at the National Institutes of Health (NIH)
+Vaccine Research Center (VRC), 2023-present
+Center for Human Immunology, Inflammation, and Autoimmunity (CHI), 2019-2023
+
+Postdoctoral Research Associate, 2018-2019
+Department of Pathology and Immunology, Washington University in St. Louis, USA
+
+Assistant Professor, 2015-2018
+Department of Computational Biology and Bioinformatics (CBBI), Sam Higginbottom University of Agricultural, Technology and Sciences (SHUATS), India
+
+Assistant Professor, 2008-2011
+Department of Computational Biology and Bioinformatics (CBBI), Sam Higginbottom Institute of Agricultural, Technology and Sciences (SHIATS), India
+
+### Honorary/Additional Assignments
+
+Associate Editor, 2016-2018
+The Allahabad Journal of Science and Technology (Formerly The Allahabad Farmer), India
+
+International Training Associate, 2015-2016
+Directorate of International Education and Training, Sam Higginbottom Institute of Agricultural, Technology and Sciences (SHIATS), India
+
+## Education
+
+Doctor of Philosophy (Ph.D.) Bioscience, 2011-2015
+University of Birmingham, UK
+Supervisors: Dr. Peter J. Winn and Prof. Christopher M. Thomas
+
+Master of Technology (M.Tech.) Bioinformatics, 2008-2010
+Sam Higginbottom Institute of Agricultural, Technology and Sciences (SHIATS), India
+CGPA 9.35/10; Silver Medal
+
+Bachelor of Technology (B.Tech.) Biotechnology, 2004-2008
+Allahabad Agricultural Institute, India
+CGPA 8.41/10
+
+## Scientific Skills
+
+* Computational Biology: PhIP-Seq, metagenomics, flow/mass cytometry, SomaScan, spatial transcriptomics, molecular structure prediction, molecular docking, molecular dynamics simulation, and sequence analysis
+* Experimental Biology:  PCR, Gibson assembly, restriction digestion, plasmid transformation, microbiology techniques, HPLC
+* Data Science and Machine Learning: High-dimensional analysis, data wrangling & visualization, feature engineering, dimensionality reduction, supervised & unsupervised learning, linear mixed-effects modeling, random forest, clustering and deep learning; Tidyverse, Tidymodels, Lme4, NumPy, Pandas, SciPy, Matplotlib, Seaborn, Plotly, Scikit Learn, Keras, and TensorFlow
+* Programming Languages: R, Python, Perl, C++, LaTeX, HTML, CSS, and JavaScript
+* Database & Containers: SQLite and Neo4J. Singularity and Docker
+* Operating Systems: Linux, MS Windows, and Mac OS X
+* High Performance Computing: SGE, SLURM, GPU nodes
+* VCS:  Git, Mercurial
+
+## Teaching Assignments
+
+* Molecular Genetics (UG[^1], MBGE-441), SHUATS, India, 2008
+* Biomolecular Modelling (UG, BI-605), SHUATS, India, 2009-2011
+* Assisted in teaching Physical Biochemistry (UG, Bio143), University of Birmingham, UK, 2012-2014
+* Concepts of Bioinformatics (UG, CBBI-502), SHUATS, India, 2015-2017
+* Structural Bioinformatics (UG, CBBI-601), SHUATS, India, 2015-2017
+* Fundamentals of Bioinformatics and Information Technology (PG[^2], CBBI-701), SHUATS, India, 2015-2017
+* Computer Aided Drug Designing (PG, CBBI-803), SHUATS, India, 2015-2017
+
+## Transferable Skills Training
+
+* Mentorship Training Program, Washington University in Saint Louis, USA, 2018
+* Mentoring Undergraduate Research, Washington University in Saint Louis, USA, 2018
+* Leading Academics, Leadership development program, University of Birmingham, UK, 2012
+* One-day course on Poster Presentations: Planning the Content, University of Birmingham, UK, 2012
+* Talent Pool, Training program on entrepreneurship, University of Birmingham, UK, 2012
+* One day course on Speed Reading, University of Birmingham, UK, 2012
+* One-day course on Time Management, University of Birmingham, UK, 2011
+
+
+## Certifications and Licenses
+
+* Amateur Radio Technician Class - KC3SNU, Federal Communications Commission, USA, 2021
+* Deep Learning with Python and Keras, Udemy, 2019  
+* Python for Data Science and Machine Learning Bootcamp, Udemy, 2019  
+* Algorithms for DNA Sequencing, Johns Hopkins University, Coursera, 2017  
+* Python for Genomic Data Science, Johns Hopkins University, Coursera, 2017  
+
+## Awards and Achievements
+
+* Travel grant, 28th Annual Symposium of The Protein Society, USA, Biochemical Society, 2014  
+* Travel grant, 15th EMBL PhD Symposium, Germany, EMBL, 2013  
+* Travel grant, ISMB/ECCB’13, Germany, National Science Foundation, 2013  
+* George Parks travel grant, Molecular Perspectives On Protein-Protein Interactions, Poland, University of Birmingham, 2013  
+* Travel grant, ECCB’12, Switzerland, Swiss Foundation for Excellence and Talent in Biomedical Research, 2012  
+* PhD scholarship,  The Darwin Trust of Edinburgh, 2011-2014  
+* Silver medal in M.Tech. Bioinformatics, SHIATS, 2010  
+
+## Conferences Attended and Organised
+
+* CSHL Biological Data Science, USA, Poster Presentation, 2024 
+* CSHL Biological Data Science, Virtual Poster Presentation, 2022
+* CSHL Systems Immunology, Virtual Poster Presentation, 2021  
+* CSHL Biological Data Science, Virtual Poster Presentation, 2020  
+* Symposium on Personal Control of Genomic Data for Research, USA, Participant, 2019  
+* FOCIS 2019, USA, Participant, 2019  
+* National Conference on Bioinformatics Panorama in Agriculture and Health, India, Sponsor Liaison, 2015  
+* 1<sup>st</sup> RSG-UK Student Symposium on Computational Biology and Life Sciences, UK, Secretary, 2014  
+* Synthetic Biology of Antibiotic Production II, Spain, Short Talk, 2014  
+* The 28<sup>th</sup> Annual Symposium of the Protein Society, USA, Poster Presentation, 2014  
+* 15<sup>th</sup> EMBL PhD Symposium, Germany,  Short Talk, 2013  
+* ISMB/ECCB’13, Germany,  Poster Presentation, 2013  
+* Molecular Perspectives On Protein-Protein Interactions, Poland, Poster Presentation, 2013  
+* 11<sup>th</sup> European Conference on Computational Biology, Switzerland, Poster Presentation, 2012  
+* 3<sup>rd</sup> BEAR Postgraduate Conference on Research Computing, UK, Secretary and Sponsor Liaison, 2012  
+* The Eighth Asia Pacific Bioinformatics Conference, India, Poster Presentation, 2010  
+* National Workshop on Functional Genomics and Proteomics, India, Participant, 2009  
+* International Conference on Open Source for Computer Aided Drug Discovery, India, Poster Presentation, 2009  
+
+## Professional Memberships
+
+* The Protein Society, 2013-2014  
+* International Society for Computational Biology (ISCB), 2012-2015  
+* Biochemical Society, 2012-2015  
+
+## Extra Curricular Positions Held
+
+* Co-Founder and Secretary, Regional Student Group, UK, Student Council, ISCB, 2013-2014  
+* Secretary, Bharat Parivar, Guild of Students, University of Birmingham, 2011-2012  
+* Vice president for Society of Biotechnology, SHIATS, 2009-2010  
+
+## Community Involvement
+
+* Reviewed 11 research articles for the Journal of Biomolecular Structure & Dynamics, 2020-2024    
+* Reviewed 9 research articles for ACS Omega, 2021-2023    
+* Reviewed 1 research article for MEEGID - Infection, Genetics and Evolution, 2019  
+* Reviewed 1 research article for Biophysical Journal, 2020
+* Reviewed 1 research article for Textile Research Journal, 2021  
+* Reviewed 1 research article for ACS Nano, 2023
+* Contributed curated datasets for data science education and advancement at [https://www.kaggle.com/rohitfarmer](https://www.kaggle.com/rohitfarmer) 
+* Built and maintained [https://www.dataalltheway.com](https://www.dataalltheway.com), a tutorial website with concepts, methods, and example code on data science, statistics, and machine learning
+
+## Software Developed
+
+HDStIM: High Dimensional Stimulation Immune Mapping [https://niaid.github.io/HDStIM/](https://niaid.github.io/HDStIM/)  
 
 ## Publications
-=> https://scholar.google.co.uk/citations?user=CjajTzYAAAAJ&hl=en Google Scholar
-=> https://pubmed.ncbi.nlm.nih.gov/?term=rohit+farmer PubMed
-=> https://orcid.org/0000-0003-4197-3047 ORCID
+
+### Ph.D. Thesis
+
+Rohit Farmer. Modelling polyketide synthases and related macromolecular complexes. PhD Thesis. University of Birmingham, 2015. [https://etheses.bham.ac.uk/id/eprint/5909/](https://etheses.bham.ac.uk/id/eprint/5909/)  
+
+### Book Chapter
+
+Farmer R., Thomas C. M., and Winn P. J. Modelling Polyketide Synthases and Similar Macromolecular Complexes. In: Wadhwa G., Shanmughavel P., Singh A., Bellare J. (eds) Current trends in Bioinformatics: An Insight. Springer, Singapore, 2018, 121-144. [https://doi.org/10.1007/978-981-10-7483-7_7](https://doi.org/10.1007/978-981-10-7483-7_7)  
+
+### In-preparation/submitted Peer Reviewed Article
+
+* **Rohit Farmer**, Richard Apps, Juan Quiel,<sup> </sup>Brian A. Sellers, Foo Cheung, Jinguo Chen, Amrita Mukherjee, Peter J. McGuire, John S. Tsang. HDStIM: A high-dimensional method for analyzing single-cell signaling responses to immune cell stimulations. Preparing to submit in PLOS Biology, 2024
+* Oluwabunmi Olaloye, Weihong Gu, Arne Gehlhaar, Burhanuddin Sabuwahla, Chino K. Eke, Yujia Li, Tessa Kehoe, Yale NOURISH Team, **Rohit Farmer, **Carrie L. Lucas, John Tsang, Saquib A. Lakhani, Sarah Taylor, George Tseng, Steven H. Kleinstein, Liza Konnikova. Single-cell atlas of circulating immune cells reveals a dynamic landscape over the first two months of age. Submitted in Science Translational Medicine, 2024 
+* Kawthar Machmach, Kombo F. N’guessan, **Rohit Farmer,** Sucheta Godbole, Dohoon Kim, Lauren McCormick, Noemia S. Lima, Amy R. Henry, Farida Laboune, Isabella Swafford, Sydney Mika, Bonnie M. Slike, Jeffery R. Currier, Leigh Anne Eller, Julie A. Ake, Sandhya Vasan, Merlin L. Robb, Shelly J. Krebs, Daniel C. Douek, Dominic Paquin-Proulx. Low NK cell activation and CD4 T cell a4b7 expression are associated with reduced susceptibility to HIV-1. Preparing to submit in JCI Insight, 2024
+
+### Published Peer-Reviewed Articles
+
+*Google Scholar:  h-index 12, i10-index 12, [https://scholar.google.co.uk/citations?user=CjajTzYAAAAJ&hl=en](https://scholar.google.co.uk/citations?user=CjajTzYAAAAJ&hl=en) *
+
+
+Latest First
+
+1. Apps R., Biancotto A., Candia J., Kotliarov Y., Perl S., Cheung F., **Farmer R.,** Mulè M.P., Rachmaninoff N., Chen J., Martins A.J., Shi R., Zhou H., Bansal N., Schum P., Olnes M.J., Milanez-Almeida P., Han K.L., Sellers B., Cortese M., Hagan T., Rouphael N., Pulendran B., King L., Manischewitz J., Khurana S., Golding H., Most R. G. van der, Dickler H.B., Germain R.N., Schwartzberg P.L., and Tsang. J.S. Acute and persistent responses after H5N1 vaccination in humans. Cell Reports, 2024
+2. Sparks R., Rachmaninoff N., Lau W.W., Hirsch D.C., Bansal N., Martins A.J., Chen J., Liu C.C., Cheung F., Failla L.E., Biancotto A., Fantoni G., Sellers B.A., Chawla D.G., Howe K.N., Mostaghimi D., **Farmer R.**, Kotliarov Y., Calvo K.R., Palmer C., Daub J., Foruraghi L., Kreuzburg S., Treat J., Urban A.K., Jones A., Romeo T., Deuitch N.T., Moura N.S., Weinstein B., Moir S., Ferrucci L., Barron K.S., Aksentijevich I., Kleinstein S.H., Townsley D.M., Young N.S., Frischmeyer-Guerrerio P.A., Uzel G., Pinto-Patarroyo G.P., Cudrici C.D., Hoffmann P., Stone D.L., Ombrello A.K., Freeman A.F., Zerbe C.S., Kastner D. L., Holland S.M., and Tsang J.S. A unified metric of human immune health. Nature Medicine, 2024.
+3. Matthew M. P., Martins A. J., Cheung F., **Farmer R.,** Sellers B. A., Quiel J. A., Jain A., Kotliarov Y., Bansal N., Chen J., Schwartzberg P. L., Tsang J. S. Integrating population and single-cell variations in vaccine responses identifies a naturally adjuvanted human immune setpoint. Immunity, 57(5), 2024.
+4. Flynn N. R., Ward M. D., Schleiff M. A., Laurin C. M. C.,** Farmer R.**, Conway S. J., Boysen G., Swamidass S. J., and Miller G. P. Bioactivation of isoxazole-containing bromodomain and extra-terminal domain (bet) inhibitors. Metabolites, 11(6), 2021.
+5. **Farmer R.**, Thomas C. M., and Winn P. J. Structure, function and dynamics in acyl carrier proteins. PLOS ONE, 14(7):1–17, 2019.
+6. Konda A. K., **Farmer R.**, Soren K. R., P. S. S., and Setti A. Structural modelling and molecular dynamics of a multi-stress responsive WRKY TF-DNA complex towards elucidating its role in stress signalling mechanisms in chickpea. Journal of Biomolecular Structure and Dynamics, 36(9):2279–2291, 2018.
+7. Dhusia K., Yadav P. K., **Farmer R.**, and Ramteke P. W. Inhibition of polyamine biosynthesis for toxicity control in *Serratia marcescens* strain WW4 by targeting ornithine decarboxylase: A structure-based virtual screening study. International Journal of Computational Biology and Drug Design, 11(1-2):114–134, 2018.
+8. Lodhi S. S., **Farmer R.**, Jaiswal Y. K., and Wadhwa G. In Silico Structural, Virtual Screening and Docking Studies of Human Cytochrome P450 2A7 Protein. Interdisciplinary Sciences: Computational Life Sciences, 7(2):129, 2015.
+9. Lodhi S. S., **Farmer R.**, Singh A. K., Jaiswal Y. K., and Wadhwa G. 3D structure generation, virtual screening and docking of human Ras-associated binding (Rab3A) protein involved in tumourigenesis. Molecular Biology Reports, 41(6):3951, 2014.
+10. Khanim F., Davies N., Veli¸ca P., Hayden R., Ride J., Pararasa C., Chong M. G., Gunther U., Veerapen N., Winn P. J., **Farmer R**., Trivier E., Rigoreau L., Drayson M., and Bunce C. Selective AKR1C3 inhibitors do not recapitulate the anti-leukaemic activities of the pan-AKR1C inhibitor medroxyprogesterone acetate. British Journal of Cancer, 110(6):1506–1516, 2014.
+11. Kumar S., **Farmer R.**, Turnbull A. P., Tripathy N. K., and Manjasetty B. A. Structural and functional conservation profiles of novel cathepsin L-like proteins identified in the *Drosophila melanogaster* genome. Journal of Biomolecular Structure and Dynamics, 31(12):1481–1489, 2013.
+12. Haines A. S., Dong X., Song Z., **Farmer R.**, Williams C., Hothersall J., Płoskon´ E., Wattana-Amorn P., Stephens E.R., Yamada E., Gurney R., Takebayashi Y., Masschelein J., Cox R. J., Lavigne R., Willis C. L., Simpson T. J., Crosby J., Winn P. J., Thomas C. M., and Crump M. P. A conserved motif flags acyl carrier proteins for β-branching in polyketide synthesis. Nature Chemical Biology, 9(11):685–692, 2013.
+13. Singh S., Sablok G., **Farmer R.**, Singh A. K., Gautam B., and Kumar S. Molecular dynamic simulation and inhibitor prediction of cysteine synthase structured model as a potential drug target for trichomoniasis. BioMed Research International, 2013(390920), 2013.
+14. Paital B., Kumar S., **Farmer R.**, and Chainy G. B. N. In silico prediction of 3D structure of Mn superoxide dismutase of Scylla serrata and its binding properties with inhibitors. Interdisciplinary Sciences: Computational Life Sciences, 5(1):69, 2013.
+15. Kumari S., Shridhar S., Singh D., Priya P., **Farmer R.**, Hundal J., Sharma P., Bavishi K., Schrick K., and Yadav G. The role of lectins and HD-ZIP transcription factors in isoprenoid based plant stress responses. Proceedings of the Indian National Science Academy, 78(4):671–691, 2012.
+16. Lodhi S. S., **Farmer R.**, Singh A. K., Wadhwa M., Jaiswal Y. K., and Wadhwa G. Statistical analysis of differential gene expression profile for colon cancer. Indian Journal of Biotechnology, 11:396–403, 2012.
+17. Gautam B., Singh G., Wadhwa G., **Farmer R.**, Singh S., Singh A. K., Jain P. A., and Yadav P. K. Metabolic pathway analysis and molecular docking analysis for identification of putative drug targets in *Toxoplasma gondii*: novel approach. Bioinformation, 8(3):134–141, 2012.
+18. Fazil M. H. U. T., Kumar S., **Farmer R.**, Pandey H. P., and Singh D. V. Binding efficiencies of carbohydrate ligands with different genotypes of cholera toxin B: Molecular modeling, dynamics and docking simulation studies. Journal of Molecular Modeling, 18(1), 2012.
+19. Paital B., Kumar S., **Farmer R.**, Tripathy N. K., and Chainy G. B. N. In silico prediction and characterization of 3D structure and binding properties of catalase from the commercially important crab, Scylla serrata. Interdisciplinary Sciences: Computational Life Sciences, 3(2):110–120, 2011.
+20. Singh S., Singh G., Singh A. K., Gautam B., **Farmer R.**, Lodhi S. S., and Wadhwa G. Prediction and analysis of paralogous proteins in *Trichomonas vaginalis* genome. Bioinformation, 6(1):31–34, 2011.
+21. Jeyakumar E., Lawrence R., **Farmer R.**, and Sahai S. In vitro and In silico analysis of xylanase produced by *Bacillus licheniformis*. Applied Biological Research, 13(1):17–27, 2011.
+22. Yadav P. K., Singh R., Jain P. A., Singh S., Gautam B., and *Farmer R.* In silico epitope prediction for glycoprotein D in human herpes simplex virus-1. Int J Pharm Sci Rev Res, 7(2):148–153, 2011.
+23. Yadav P. K., Sachan R., Tandon S., Singh S., Gautam B., **Farmer R.**, and Jain P. A. *In silico* study of heterodimerization of TLR2 and TLR6. Int J Pharm Sci Rev Res, 7(1):113–120, 2011.
+24. Gautam B., Katara P., Singh S., and **Farmer R**. Drug target identification using gene expression microarray data of *Toxoplasma gondii*. International Journal of Biometrics and Bioinformatics (IJBB), 4(3):113, 2010.
+25. **Farmer R**., Gautam B., Singh S., Yadav P. K., and Jain P. A. Virtual screening of AmpC/β-lactamase as target for antimicrobial resistance in *Pseudomonas aeruginosa*. Bioinformation, 4(7):290–4, 2010.
+
+
+### Preprints
+
+Latest First
+
+1. Sparks R., Rachmaninoff N., Hirsch D.C., Bansal N., Lau W.W., Martins A.J., Chen J., Liu C.C., Cheung F., Failla L.E., Biancotto A., Fantoni G., Sellers B.A., Chawla D.G., Howe K.N., Mostaghimi D., **Farmer R.**, Kotliarov Y., Calvo K.R., Palmer C., Daub J., Foruraghi L., Kreuzburg S., Treat J., Urban A.K., Jones A., Romeo T., Deuitch N.T., Moura N.S., Weinstein B., Moir S., Ferrucci L., Barron K.S., Aksentijevich I., Kleinstein S.H., Townsley D.M., Young N.S., Frischmeyer-Guerrerio P.A., Uzel G., Pinto-Patarroyo G.P., Cudrici C.D., Hoffmann P., Stone D.L., Ombrello A.K., Freeman A.F., Zerbe C.S., Kastner D. L., Holland S.M., and Tsang J.S. Multiomics integration of 22 immune-mediated monogenic diseases reveals an emergent axis of human immune health, Research Square, 2023.03.20; doi:[https://doi.org/10.21203/rs.3.rs-2070975/v1](https://doi.org/10.21203/rs.3.rs-2070975/v1) 
+2. Mul`e M. P., Martins A. J. Cheung F., **Farmer R**., Sellers B., Quiel J. A., Jain A., Kotliarov Y., Bansal N., Chen J., Schwartzberg P. L., and Tsang J. S. Multiscale integration of human and single-cell variations reveals unadjuvanted vaccine high responders are naturally adjuvanted. medRxiv, 2023.03.20.23287474; doi:[https://doi.org/10.1101/2023.03.20.23287474](https://doi.org/10.1101/2023.03.20.23287474)     
+3. **Farmer R**., Apps R., Quiel J., Sellers B. A., Cheung F., Chen J., Mukherjee A., McGuire P. J., and Tsang J. S. Multiparameter stimulation mapping of signaling states in single pediatric immune cells reveals heightened tonic activation during puberty. bioRxiv, 2022.11.14.516371; doi:[https://doi.org/10.1101/2022.11.14.516371](https://doi.org/10.1101/2022.11.14.516371) 
+4. Rahman F., **Farmer R**., Das S., Vayani F. and Hassan M. Highlights of the 1<sup>st</sup> Student Symposium of the ISCB RSG UK. F1000Research,  4:154, 2015. [https://doi.org/10.12688/f1000research.6616.1](https://doi.org/10.12688/f1000research.6616.1) 
+
+
+## Past Research Summary
+
+### Postdoctoral Research
+
+Place: Deparment of Pathology and Immunology, Washington University School of Medicine, USA
+Supervisor: Dr. S. Joshua Swamidass
+
+During my short (1 year) postdoctoral research position, I applied deep learning to large-scale molecular data to understand drug bioactivation and toxicity.
+
+### Doctoral Research
+
+Place: University of Birmingham, UK
+Thesis Title: Modelling polyketide synthases and related macromolecular complexes
+Supervisors: Dr. Peter Winn, Prof. Christopher M. Thomas
+E-thesis: http://etheses.bham.ac.uk/5909/
+
+Summary
+Polyketide synthases (PKS) are enzyme complexes that synthesise many natural products of medicinal interest, notably a large number of antibiotics. The present work investigated the mupirocin biosynthesis system, comparing it with similar pathways such as thiomarinol and kalimantacin. The focus was on the structural modelling of the protein complexes involved in antibiotic synthesis, via molecular simulation and the analysis of structural and sequence data. Structural docking of acyl carrier proteins (ACP) cognate for an HMG-CoA synthase orthologue responsible for β-methylation (MupH) identified key residues involved in the recognitions specificity of the interacting partners, further supported by mutagenesis experiments, which thus allows prediction of β-methylation sites in PKS. Moreover, complementation and mutagenesis experiments performed on MupH homologs from kalimantacin and thiomarinol systems suggests specificity between the ACP:HCS proteins in the β-branching suggesting the possibility of engineering multiple specific β-branching modifications into the same pathway. Molecular dynamics simulations of ACPs from the mupirocin cluster revealed that the PKS ACPs form a cavity upon the attachment of the phosphopantetheine and acyl chains similar to what is seen in the fatty acid synthase ACPs and provide a better understanding of the structure function relationship in these small proteins. Molecular docking of the putative cognate substrate with the ketosynthase (KS) homo dimer of module 5 of the MmpA in the mupirocin pathway revealed a loop that may control specificity for the α-hydroxylated substrate and mutagenesis experiments support this proposition.
+
+### Master’s Project
+
+Place: Sam Higginbottom Institute of Agriculture, Technology, and Sciences, India
+Project Title: Epigenetic changes induced by Listeriolysin O modulated histone modifications in Listeria monocytogenes
+Supervisor: Dr. Budhayash Gautam
+
+Summary
+The project aimed to understand the epigenetic changes due to histone modifications by a class of bacterial toxins utilizing the publicly available gene expression data. As a master’s student, this project built my expertise in programming in R and several Bioconductor packages. The methodology included determining differentially expressed genes followed by clustering analysis using various partition and hierarchical-based clustering methods and annotation using the gene ontology database.
+
+### Bachelor’s Project
+
+Place: National Institute of Plant Genome Research, India
+Project Title: Comparative Modelling of Steroidogenic Acute Regulatory Lipid Transfer Domains in Arabidopsis thaliana
+Supervisor: Dr. Gitanjali Yadav
+
+Summary
+Steroidogenic Acute Regulatory Lipid Transfer (START) domains are responsible for transporting Cholesterol molecules from the outer mitochondrial membrane to the inner mitochondrial membrane for steroidogenesis, usually found in mammals. However, recently, they are also found in various plant genomes such as A. thaliana and V. vinifera, amongst others, in large numbers compared to mammals. As the presence of Cholesterol in plants is still a debatable topic, the finding of START domains may be hypothesized to be involved with plant signaling mechanisms by transporting various types of lipids. I was involved in this work during my undergraduate final semester project. I predicted the theoretical model structures of all the 30 START domains in A. thaliana and conducted an active site architecture analysis. The protein structure prediction was carried out by threading and comparative modeling methods, utilizing various online and standalone tools. Active site calculations were performed using VOIDOO and MAPMAN. The output files thus generated were analyzed using Perl and Shell scripts. The results showed that START domains in plants vary in their active site volume and shape, thus allowing a wide variety of molecules to bind; however, the type of molecules that are likely to bind START domains still needs to be determined.

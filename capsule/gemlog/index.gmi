@@ -28,5 +28,17 @@ on topics related to outdoor activities.
 => 2022-05-03_Documentation_Tuesday.gmi 2022-05-03 Documentation Tuesday
 => 2022-05-02_My_First_Kayaking_Experience.gmi 2022-05-02 My First Kayaking Experience
 => 2022-04-29_Starting_100_Days_To_Offload_Challenge.gmi 2022-04-29 Starting 100 Days To Offload Challenge
+=> 2022-03-17_Types_Of_People_And_Their_Feedback_Style.gmi 2022-03-17 Types Of People And Their Feedback Style
+=> 2022-03-01_Social_Media_Fast.gmi 2022-03-01 Social Media Fast
+=> 2022-02-24_Life_After_Death_In_The_Metaverse.gmi 2022-02-24 Life After Death In The Metaverse
+=> 2022-02-14_I_Am_Not_A_Person_Of_Color_I_Am_An_Indian.gmi 2022-02-14 I Am Not A Person Of Color. I Am An Indian!
+=> 2022-02-07_Who_are_you_from_5_pm_to_9_am.gmi 2022-02-07 Who are you from 5 p.m. to 9 a.m.?
+=> 2022-01-31_Five_Philosophies_of_My_Life.gmi 2022-01-31 Five Philosophies of My Life
+=> 2022-01-27_NFT_COVID-19_The_Deadliest_Disease_In_American_History.gmi 2022-01-27 NFT: COVID-19 The Deadliest Disease In American History
+
+## 2019
+=> 2019-02-23_Peace_with_Science_and_Religion.gmi 2019-02-23 Peace with Science and Religion
+=> 2019-02-15_10_Things_for_Which_you_dont_Need_Talent_or_Money.gmi 2019-02-15 10 Things for Which you don't Need Talent or Money
+=> 2019-02-10_One_Year_of_Investing.gmi 2019-02-10 One Year of Investing
 
 

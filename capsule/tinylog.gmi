@@ -1,4 +1,8 @@
-#  Tinylog of rohit
+#  Tinylog of Rohit Farmer
 
-## 2022-04-19 06:43:10 UTC
-Launching rohit.pollux.casa capsule !
+=> / Home
+
+## 2024-11-25 21:53:07 UTC
+I moved my Gemini capsule from gemini://rohit.pollux.casa to my domain gemini://rohitfarmer.com. However, the previous website is still running. I will ask Adele to delete it once I know my self-hosted setup works correctly. Like my HTTP website, this capsule runs on the same Google Cloud micro instance (free tier) via the Agate server. I am building this website using Visual Studio Code with a GemText syntax highlighter plugin. The website code/content gets uploaded to a private repository on Codeberg.
+
+

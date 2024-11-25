@@ -8,9 +8,9 @@ I am a computational biologist by training, with interests in the outdoors, self
 
 ## Site Navigation
 => /gemlog/ Gemlog
+=> /tinylog.gmi Tinylog
 => /cv.gmi CV
-=> /research.gmi Research
-=> /tech.gmi Hobbies
+=> /hobbies.gmi Hobbies
 => /connect.gmi Let's Connect
 => /bookmarks.gmi Bookmarks
 

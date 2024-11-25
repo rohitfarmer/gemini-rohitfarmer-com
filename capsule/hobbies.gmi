@@ -1,0 +1,88 @@
+# Hobbies
+
+=> / Home
+
+> If you don't select any passion voluntarily, boredom will select you involuntarily. - Amit Kalantri
+
+I am a long-time user and advocate of free and open-source software (FOSS), and most of my technical hobbies/projects are centered around it. On this page, I will list my hobby projects and excerpts and links to articles that resonate with my philosophy.
+
+## Data All The Way
+
+=> https://dataalltheway.com/
+
+A tutorial website with concepts, methods, and example code on various data science, statistics, and machine learning topics.
+
+## Kaggle Datasets
+
+=> https://www.kaggle.com/rohitfarmer/datasets
+
+Curated datasets for data science education and advancement.
+
+## NFT: COVID-19 The Deadliest Disease In American History
+
+=> https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/93357100954418951181109649094500711171266769619013119836688567805271171137537/ COVID-19 The Deadliest Disease In American History
+
+In September 2021, COVID19 surpassed the death toll of 675,000 of the 1918 Spanish flu pandemic in the USA - becoming the deadliest disease in American history. COVID-19 is caused by a coronavirus called SARS-CoV-2. Spike protein (S) on the surface of the SARS-CoV-2 virus binds to human cells by recognizing the ACE2 protein receptor. This binding facilitates the fusion of the virus to human cells leading to the injection of the viral genetic material into the human cells. Once inside the human cells, viral genetic material utilizes host machinery to produce more copies of the SARS-CoV-2 virus.
+
+This single copy of NFT (24 X 36-inch poster) commemorates the record-breaking deaths in the USA by rendering the spike protein in 675,001 unique combinations of RGB (red, green, and blue) color codes. These 675,001 colors are randomly sampled from all the possible (16,777,216) computer-generated colors. It’s a work of several weeks of computation that involved generating hex codes from all the possible combinations of RGB values, rendering individual spike protein structures into unique colors, stitching individual images into rows to cover the width of the poster, and then stacking rows to cover the height of the poster. All the steps were carried out programmatically in the R programming language.
+
+Note: In addition to the PNG file hosted on OpenSea, the owner will also get the poster in high-resolution PDF format. The high-resolution file is password protected and will only be available to the owner via the locked content of this page. A 677-page technical specifications document that describes the technical details and lists all the 675,001 unique RGB (hex) color codes are provided for free - download it from https://github.com/rohitfarmer/covid19-nft.
+
+Note: The pixels in the poster are SARS-CoV-2 protein structures. Stretch the image to the maximum to see the individual renderings. A bigger multicolor rendering is available at https://github.com/rohitfarmer/covid19-nft and also in the technical specifications document.
+
+## India Chat
+
+=> https://indiachat.netlify.app/
+
+I have developed https://indiachat.netlify.app/ that lists all the popular public multi-user chatrooms/channels (MUC) related to India on decentralized networks - XMPP, IRC, & [matrix]. The motivation is to promote the adoption and use of decentralized and federated communication platforms. In the current era of mass surveillance by corporate giants, the true essence of the internet is to make it more decentralized and bring the power to control users’ data back to users.
+
+## Ham Radio
+
+I earned my ham radio license (technician) on August 4, 2021 with the call sign KC3SNU
+
+Check out Ham Dashboard to get the current time and date in UTC and local time zone in both 12 and 24-hour format. A web app to convert a string into phonetics and weather for the current location.
+
+=> https://rohitfarmer.com/ham-dash
+
+Bands, Frequencies, and Modes:
+
+* KV3B repeater, 2 meters, 146.955, -0.6 MHz, FM (dual-band HT)
+* EchoLink (computer)
+
+Gear I own:
+
+* Radioddity GS-5B with Nagoya NA-24j VHF/UHF antenna and Radioddity RS22 speaker mic.
+
+Software I use:
+
+* EchoLink (Windows 10 and Android)
+* Repeater Book (Android)
+* HamClock (Android)
+
+## Bioinfo Bot
+
+Discontinued: 
+=> https://rohitfarmer.github.io/bioinfobot/
+
+Bioinfo Bot was a Twitter bot that collected tweets from bioinformaticians/computational biologists worldwide from 2017 until Elon Musk took over and made the APIs paid. While it was running, in addition to collecting tweets, the bot periodically searched and followed new users and carried out trend analysis once per month.
+
+The core infrastructure was running on a Google Cloud Platform instance. Python library Tweepy was the main module to follow people, collect streaming tweets, and fetch tweet-related metadata. The captured tweets were stored in flat files per month. The Natural Language Toolkit (NLTK) was used for the analysis. Tweet analysis consisted of producing a list of “Top 20 Words”, “Top 20 Tweeters”, “Top 20 Hashtags,” and “Popular Programming Languages & Frameworks.” The processed results per month were presented and stored as a Word cloud image and a JSON file, respectively. The word cloud was generated using the word cloud Python module.
+
+## Self Hosting
+
+I am a proponent of self-hosting and small web. This website runs on a free Google Cloud Instance via the Agate Gemini server. I also run a home server that hosts the Plex server for my collection of movies and music. The home server also serves as the central location for receiving automatic photo uploads from my and my wife’s mobile phones.
+
+Please check out these websites to learn about self-hosting and its advantages.
+
+=> https://growyourown.services/ Grow Your Own Services
+=> https://github.com/awesome-selfhosted/awesome-selfhosted Awesome Selfhosted
+=> https://smolweb.org/ Smolweb
+
+## Pubnix
+
+I also maintain my presence on Pubnix server(s). A pubnix is a Unix/Linux server provided by a person or a group to a group for non-commercial recreational goals. One of the most popular modern active pubnix networks is tildeverse.org.
+
+My test/play website on Ctrl-c.club tilde server: 
+=> https://ctrl-c.club/~swatantra/.
+
+I like the idea of online and offline shared spaces, such as public libraries, parks, and community club rooms.

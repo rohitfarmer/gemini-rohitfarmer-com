@@ -25,3 +25,6 @@ Silas S. Brown’s Gemini capsule ( computer scientist at Cambridge University)
 StackSmith's basement
 => gemini://gemini.ctrl-c.club/~stack/
 
+Lettuce gemlog
+=> gemini://gemini.ctrl-c.club/~lettuce/
+
