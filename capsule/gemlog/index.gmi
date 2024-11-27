@@ -1,4 +1,4 @@
-# Gemlog
+# Rohit's Gemlog
 
 => / Home
 
@@ -12,6 +12,8 @@ on topics related to data science and
 
 on topics related to outdoor activities.
 
+## 2024
+=> 2024-11-27_How_to_Setup_a_Gemini_Capsule.gmi 2024-11-27 How to Setup a Gemini Capsule/Website on a Google Cloud Compute Instance
 ## 2023
 => 2023-01-13_Data_all_the_way_etc.gmi 2023-01-13 Data all the way, etc.
 

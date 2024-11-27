@@ -1,6 +1,9 @@
-#  Tinylog of Rohit Farmer
+# Rohit's Tinylog
 
 => / Home
+
+## 2024-11-27 20:38:44 UTC
+After a long day today, I wrote a blog post for my primary website, https://rohitfarmer.com, and cross-posted the same article here on my Gemlog. The post is a tutorial explaining how to set up a Gemini capsule/website on a Google Cloud compute instance. I re-submitted the Gemlog URL to Antenna, and it fetched and listed the title of the latest post. Related to Gemini, everything is in order. 
 
 ## 2024-11-25 21:53:07 UTC
 I moved my Gemini capsule from gemini://rohit.pollux.casa to my domain gemini://rohitfarmer.com. However, the previous website is still running. I will ask Adele to delete it once I know my self-hosted setup works correctly. Like my HTTP website, this capsule runs on the same Google Cloud micro instance (free tier) via the Agate server. I am building this website using Visual Studio Code with a GemText syntax highlighter plugin. The website code/content gets uploaded to a private repository on Codeberg.
