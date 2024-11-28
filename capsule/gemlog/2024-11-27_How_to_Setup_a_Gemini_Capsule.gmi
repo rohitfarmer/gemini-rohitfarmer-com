@@ -42,6 +42,10 @@ Upon creating the new rule, your firewall rules table should look something like
 ```
 **Note:** If you are installing Gemini on a home server like a Raspberry Pi, you may have to open the port using `ufw` and enable port forwarding in your router.
 
+## DNS Setting
+
+While setting up the port required by Gemini, either on a Google Cloud instance or home server, you must also ensure that you have the correct DNS settings. This is usually an A record pointing to your server's IP address. You may already have it set up correctly if you run a web server on the same machine, such as NGINX or Apache, so no further steps are needed. If not, find more information about this from your domain name provider.
+
 ## Setup the Agate Server
 
 To serve your Gemini capsule, we will use the Agate server
@@ -124,7 +128,7 @@ Now that your server is running, it's time to add some actual content in the `/h
 
 => https://codeberg.org/rohitfarmer/gemini-capsule-example
 
----
+## Comment
 
 I hope you found this tutorial helpful. If so, please let me know  at rohit@rohitfarmer.com or comment and participate in discussion on the following Mastodon and Bluesky posts 
 
