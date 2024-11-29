@@ -1,0 +1,29 @@
+=> / Home
+=> /gemlog Gemlog
+
+# Revisiting my views about Mastodon
+Much has already been written about Mastodon; therefore, I will recount my experience as an end user rather than introducing what it is. I joined fosstodon.org, a Mastodon instance for free and open source software community, on March 09, 2022. I do not recall what made me do it because, at that time, Twitter was still Twitter, and it had not gone through the craziness of Elon Musk. As a technology enthusiast, I am always looking for new things, so somehow, while surfing the internet, I found it, and at once, I gravitated toward it. At the same time, I was looking for non-commercial email providers and a couple of other things like XMPP chat services, which led me to disroot.org. I happened to first create an account on Disroot with the username “swatantra,” which in Hindi means “free as in freedom.” Subsequently, I decided to use the same username on Fosstodon, and it went well with both Disroot and Fosstodon, meaning and emotion-wise.
+
+At Fosstodon, I felt right at home amid all sorts of technology discussions and fun hobby stuff. I also found regular Mastodon users more engaging and intentional about their involvement in a particular community, and that is what I thought was particularly unique about Mastodon. You choose a community that most aligns with your interests so that you are constantly enriched but still have the option to explore what's beyond your local instance in this global network of instances called the fediverse. I have countless anecdotes from the past two years where I sought help or initiated a discussion, and people came through to engage.
+
+I also admired that since there is no algorithm to promote your posts, you can only reach people by including relevant hashtags and expecting the groups looking for those hashtags to find you. The same goes for finding people to follow. This is an intentional act that does not happen on commercial social media. A lot of content on commercial social media is thrown at us due to our overtrained personal profiles. I may have searched for a term once, but that does not mean I am looking for it now. Most of the time, the search terms are not products, but the promoted material we see is usually about products.
+
+Other features I liked included no advertisements, an expanded bio section, the ability to filter unwanted toots, transfer to another instance without losing followers, delete toots older than a specific time limit, and choose the mobile phone client of my choice.
+
+I only started getting the hang of it when the surge came after Elon Musk's hostile Twitter takeover, and people started moving to other resources to find a safe place to share their views and connect. The most prominent was Mastodon. Hundreds of Mastodon instances were initiated overnight, and the existing instances had to increase their capacity to accommodate the migrants. It was an exciting time to see the local feed of my instance flooded with introduction posts and people trying to find their friends and connections from Twitter in the fediverse. During this mass exodus, people, for the first time, had to think about choosing an instance and a client for a social media service. The only place people had to think about choosing an internet service was email, and in many cases, even that choice was made by schools, colleges, workplaces, and the type of phones they were using. I heard one of the lead radio anchors on NPR saying that she couldn't figure out how to sign up for Mastodon as she had to decide on an instance to join. It is very troubling if people can not make decisions without letting corporate companies tell them what to do. How are we going to progress as a self-governing democratic society?
+
+Most people do not like decision-making because it's inconvenient, and they often fear it might lead to something bad rather than good. So, we try to maintain the status quo until it's necessary. However, since decision-making is difficult, it's also invaluable, and we should try to decide with hope, not fear, as the quotes from two of the most influential people of their time say.
+
+> "Nothing is more difficult, and therefore more precious, than to be able to decide." Napoleon Bonaparte
+
+> "May your choices reflect your hopes, not your fears." Nelson Mandela
+
+As of date, I have 362 followers on Mastodon compared to 444 on Twitter, and even with the smaller numbers, I get more engagement in the former than the latter. For the same reason, intentional participation. The fediverse is truly a “for the people by the people” setup.
+
+I do not know how to end this post, so I will stop here. If I recall more thoughts, I will update this post in the future.
+
+## Comment
+
+I hope you found this article interesting. If so, please let me know  at rohit@rohitfarmer.com or comment and participate in discussion on the following Mastodon post 
+
+=> https://fosstodon.org/@swatantra/112142584434423375
