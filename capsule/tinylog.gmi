@@ -2,6 +2,9 @@
 
 => / Home
 
+## 2024-11-29 02:48:19 UTC
+Happy Thanksgiving, USA, and every other country that celebrates it. We had an Indian-American mixed family lunch today, and we enjoyed the variety of food and spending time with the family after a long time. One of my colleagues coined a new term for our kind of lunch today: "Curkey." That's a mix of curry and turkey. We all loved it.
+
 ## 2024-11-27 20:38:44 UTC
 After a long day today, I wrote a blog post for my primary website, https://rohitfarmer.com, and cross-posted the same article here on my Gemlog. The post is a tutorial explaining how to set up a Gemini capsule/website on a Google Cloud compute instance. I re-submitted the Gemlog URL to Antenna, and it fetched and listed the title of the latest post. Related to Gemini, everything is in order. 
 
