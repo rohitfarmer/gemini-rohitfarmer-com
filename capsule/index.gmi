@@ -14,6 +14,9 @@ I am a computational biologist by training, with interests in the outdoors, self
 => /connect.gmi Let's Connect
 => /bookmarks.gmi Bookmarks
 
+## E-mail
+rohit@rohitfarmer.com
+
 ----
 Made with ✌️ ❤️ ☕.
 Copyright 2018-present Rohit Farmer
