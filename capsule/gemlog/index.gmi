@@ -13,38 +13,38 @@ on topics related to data science and
 on topics related to outdoor activities.
 
 ## 2024
-=> 2024-11-27_How_to_Setup_a_Gemini_Capsule.gmi 2024-11-27 How to Setup a Gemini Capsule/Website on a Google Cloud Compute Instance
-=> 2024-05-21_New_Hobby_Birding.gmi 2024-05-21 My New Hobby: Birding with Merlin Bird ID
-=> 2024-04-22_Revisiting_my_views_about_Mastodon.gmi 2024-04-22 Revisiting my views about Mastodon
-=> 2024-04-04_Movie_Review_AK_47_Kalashnikov.gmi 2024-04-04 Movie Review: AK-47 Kalashnikov
+=> 2024/2024-11-27_How_to_Setup_a_Gemini_Capsule.gmi 2024-11-27 How to Setup a Gemini Capsule/Website on a Google Cloud Compute Instance
+=> 2024/2024-05-21_New_Hobby_Birding.gmi 2024-05-21 My New Hobby: Birding with Merlin Bird ID
+=> 2024/2024-04-22_Revisiting_my_views_about_Mastodon.gmi 2024-04-22 Revisiting my views about Mastodon
+=> 2024/2024-04-04_Movie_Review_AK_47_Kalashnikov.gmi 2024-04-04 Movie Review: AK-47 Kalashnikov
 
 ## 2023
-=> 2023-01-13_Data_all_the_way_etc.gmi 2023-01-13 Data all the way, etc.
+=> 2023/2023-01-13_Data_all_the_way_etc.gmi 2023-01-13 Data all the way, etc.
 
 ## 2022
-=> 2022-07-13_It_Is_Getting_Harder_To_Write_Regularly.gmi 2022-07-13 It Is Getting Harder to Write Regularly
-=> 2022-06-06_It_Is_Often_Easier_To_Cry_Than_To_Act.gmi 2022-06-06 It Is Often Easier To Cry Than To Act
-=> 2022-05-27_Day_10_of_100DaysToOffLoad.gmi 2022-05-27 Day 10 of 100DaysToOffLoad
-=> 2022-05-18_Closure_Is_Important.gmi 2022-05-18 Closure Is Important!
-=> 2022-05-16_How_Do_You_Forgive_Someone.gmi 2022-05-16 How Do You Forgive Someone?
-=> 2022-05-13_Planning_Our_First_Camping_Trip.gmi 2022-05-13 Planning Our First Camping Trip
-=> 2022-05-10_Sometimes_Minimum_Is_Better.gmi 2022-05-10 Sometimes Minimum Is Better
-=> 2022-05-09_The_Outcome_Of_Main_Stream_Social_Media_Fast_2022.gmi 2022-05-09 The Outcome Of Mainstream Social Media Fast 2022
-=> 2022-05-04_How_We_Missed_Our_Second_Daughter's_Birth_on_May_4.gmi 2022-05-04 How We Missed Our Second Daughter's Birth On May 4
-=> 2022-05-03_Documentation_Tuesday.gmi 2022-05-03 Documentation Tuesday
-=> 2022-05-02_My_First_Kayaking_Experience.gmi 2022-05-02 My First Kayaking Experience
-=> 2022-04-29_Starting_100_Days_To_Offload_Challenge.gmi 2022-04-29 Starting 100 Days To Offload Challenge
-=> 2022-03-17_Types_Of_People_And_Their_Feedback_Style.gmi 2022-03-17 Types Of People And Their Feedback Style
-=> 2022-03-01_Social_Media_Fast.gmi 2022-03-01 Social Media Fast
-=> 2022-02-24_Life_After_Death_In_The_Metaverse.gmi 2022-02-24 Life After Death In The Metaverse
-=> 2022-02-14_I_Am_Not_A_Person_Of_Color_I_Am_An_Indian.gmi 2022-02-14 I Am Not A Person Of Color. I Am An Indian!
-=> 2022-02-07_Who_are_you_from_5_pm_to_9_am.gmi 2022-02-07 Who are you from 5 p.m. to 9 a.m.?
-=> 2022-01-31_Five_Philosophies_of_My_Life.gmi 2022-01-31 Five Philosophies of My Life
-=> 2022-01-27_NFT_COVID-19_The_Deadliest_Disease_In_American_History.gmi 2022-01-27 NFT: COVID-19 The Deadliest Disease In American History
+=> 2022/2022-07-13_It_Is_Getting_Harder_To_Write_Regularly.gmi 2022-07-13 It Is Getting Harder to Write Regularly
+=> 2022/2022-06-06_It_Is_Often_Easier_To_Cry_Than_To_Act.gmi 2022-06-06 It Is Often Easier To Cry Than To Act
+=> 2022/2022-05-27_Day_10_of_100DaysToOffLoad.gmi 2022-05-27 Day 10 of 100DaysToOffLoad
+=> 2022/2022-05-18_Closure_Is_Important.gmi 2022-05-18 Closure Is Important!
+=> 2022/2022-05-16_How_Do_You_Forgive_Someone.gmi 2022-05-16 How Do You Forgive Someone?
+=> 2022/2022-05-13_Planning_Our_First_Camping_Trip.gmi 2022-05-13 Planning Our First Camping Trip
+=> 2022/2022-05-10_Sometimes_Minimum_Is_Better.gmi 2022-05-10 Sometimes Minimum Is Better
+=> 2022/2022-05-09_The_Outcome_Of_Main_Stream_Social_Media_Fast_2022.gmi 2022-05-09 The Outcome Of Mainstream Social Media Fast 2022
+=> 2022/2022-05-04_How_We_Missed_Our_Second_Daughter's_Birth_on_May_4.gmi 2022-05-04 How We Missed Our Second Daughter's Birth On May 4
+=> 2022/2022-05-03_Documentation_Tuesday.gmi 2022-05-03 Documentation Tuesday
+=> 2022/2022-05-02_My_First_Kayaking_Experience.gmi 2022-05-02 My First Kayaking Experience
+=> 2022/2022-04-29_Starting_100_Days_To_Offload_Challenge.gmi 2022-04-29 Starting 100 Days To Offload Challenge
+=> 2022/2022-03-17_Types_Of_People_And_Their_Feedback_Style.gmi 2022-03-17 Types Of People And Their Feedback Style
+=> 2022/2022-03-01_Social_Media_Fast.gmi 2022-03-01 Social Media Fast
+=> 2022/2022-02-24_Life_After_Death_In_The_Metaverse.gmi 2022-02-24 Life After Death In The Metaverse
+=> 2022/2022-02-14_I_Am_Not_A_Person_Of_Color_I_Am_An_Indian.gmi 2022-02-14 I Am Not A Person Of Color. I Am An Indian!
+=> 2022/2022-02-07_Who_are_you_from_5_pm_to_9_am.gmi 2022-02-07 Who are you from 5 p.m. to 9 a.m.?
+=> 2022/2022-01-31_Five_Philosophies_of_My_Life.gmi 2022-01-31 Five Philosophies of My Life
+=> 2022/2022-01-27_NFT_COVID-19_The_Deadliest_Disease_In_American_History.gmi 2022-01-27 NFT: COVID-19 The Deadliest Disease In American History
 
 ## 2019
-=> 2019-02-23_Peace_with_Science_and_Religion.gmi 2019-02-23 Peace with Science and Religion
-=> 2019-02-15_10_Things_for_Which_you_dont_Need_Talent_or_Money.gmi 2019-02-15 10 Things for Which you don't Need Talent or Money
-=> 2019-02-10_One_Year_of_Investing.gmi 2019-02-10 One Year of Investing
+=> 2019/2019-02-23_Peace_with_Science_and_Religion.gmi 2019-02-23 Peace with Science and Religion
+=> 2019/2019-02-15_10_Things_for_Which_you_dont_Need_Talent_or_Money.gmi 2019-02-15 10 Things for Which you don't Need Talent or Money
+=> 2019/2019-02-10_One_Year_of_Investing.gmi 2019-02-10 One Year of Investing
 
 
