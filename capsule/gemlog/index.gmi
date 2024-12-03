@@ -14,7 +14,9 @@ on topics related to outdoor activities.
 
 ## 2024
 => 2024-11-27_How_to_Setup_a_Gemini_Capsule.gmi 2024-11-27 How to Setup a Gemini Capsule/Website on a Google Cloud Compute Instance
+=> 2024-05-21_New_Hobby_Birding.gmi 2024-05-21 My New Hobby: Birding with Merlin Bird ID
 => 2024-04-22_Revisiting_my_views_about_Mastodon.gmi 2024-04-22 Revisiting my views about Mastodon
+=> 2024-04-04_Movie_Review_AK_47_Kalashnikov.gmi 2024-04-04 Movie Review: AK-47 Kalashnikov
 
 ## 2023
 => 2023-01-13_Data_all_the_way_etc.gmi 2023-01-13 Data all the way, etc.

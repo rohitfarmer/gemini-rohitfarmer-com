@@ -1,0 +1,29 @@
+=> / Home
+=> /gemlog Gemlog
+
+# My New Hobby: Birding with Merlin Bird ID
+
+I might be getting into birding. I already have too many hobbies to pursue, but it seems I have another addition to the pile. One of my friends introduced me to the Merlin Bird ID app, which identifies birds in your surroundings by hearing their chirping. It’s a machine learning-based algorithm that is trained to detect thousands of birds based on their voices and images from around the world. I used the app on my phone a few days ago and got hooked on it. The app is easy to use, and it’s quick to record ambient audio, process the signals, and identify bird species. 
+
+=> https://merlin.allaboutbirds.org/ Merlin Bird ID app
+
+I tried the app from my balcony, and probably for the first time, I paid attention to the direction from which the voices were coming to orient my phone’s mic properly. This intentional hearing of birds chirping in itself was pretty therapeutic. Once the app identified a couple of birds around my apartment building, I quickly drew my long-forgotten binoculars to see what the app identified. The predictions were Song Sparrow (banner image) and American Robin, and I think I saw both of them up close on the trees in my courtyard. 
+
+=> https://www.rei.com/product/201741/celestron-landscout-10-x-50-porro-binoculars?redirect-pup=false Celestron Landscout 10 x 50 Porro Binoculars
+
+I knew about birding, but I had never paid much attention to it. I also recently read an article about Birding by Ed Yong , my favorite science writer, who is also into birding. When my friend introduced me to the Merlin Bird ID app, the dots connected, and I decided to give it a try. 
+
+=> https://www.nytimes.com/2024/03/30/opinion/birding-spring-merlin-ebird.html Birding by Ed Yong
+
+Since that day on the balcony, I have tried listening to birds if I am outdoors in a park or on a trail. I have also introduced it to my 6-year-old daughter, and she loved it. We will continue pursuing it and learning more about it. I guess it’s just one more reason for me to be outdoors. 
+
+---
+
+### Reply via email
+Thoughts, feedback, questions? Write to me at rohit@rohitfarmer.com.
+
+### Interact
+Comment and participate in discussion on the following post:
+
+=> https://mindly.social/@ro/112479582987456194 Mastodon
+
