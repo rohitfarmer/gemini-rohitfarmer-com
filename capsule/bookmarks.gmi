@@ -14,9 +14,11 @@ Feed aggregator
 => gemini://kwiecien.us/ Ben's website
 => gemini://gemini.conman.org/ Conman laboratories
 => gemini://gemini.ctrl-c.club/~lettuce/ Lettuce gemlog
+=> gemini://perma.computer Perma computer
 => gemini://seirdy.one/ Rohan Kumar's capsule
 => gemini://sarushka.flounder.online/ Sarah Hinlicky Wilson (theology etc)
 => gemini://gemini.ctrl-c.club/~ssb22/ Silas S. Brown's Gemini capsule (computer scientist at Cambridge University)
 => gemini://zaibatsu.circumlunar.space/~solderpunk/ Solderpunk (the guy who created Gemini)
 => gemini://gemini.ctrl-c.club/~stack/ StackSmith's basement
+=> gemini://arcanesciences.com/ Sunset Ash's home on Gemini
 => gemini://tilde.club/~winter/ Winter
