@@ -2,6 +2,9 @@
 
 => / Home
 
+## 2024-12-05 19:58:15 UTC
+I am working with a data frame with 53 million rows and 28 columns, which I stored as a .feather binary file. On the disk, it's around 5 GB. Fortunately, I am working on an HPC and have ample RAM to load the entire data frame on the memory. However, working with such a huge file is slow and cumbersome.     
+
 ## 2024-12-03 01:04:20 UTC
 Today, I updated my HTTP website: refined the navigation bar, updated the look of my "Now" page, redesigned the blog post comments section, and added icons for various websites using Font Awesome.
 
