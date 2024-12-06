@@ -13,6 +13,7 @@ on topics related to data science and
 on topics related to outdoor activities.
 
 ## 2024
+=> 2024/2024-12-06_Rainbow_Cake_and_Harris_Teeter.gmi 2024-12-06 Rainbow Cake and Harris Teeter
 => 2024/2024-11-27_How_to_Setup_a_Gemini_Capsule.gmi 2024-11-27 How to Setup a Gemini Capsule/Website on a Google Cloud Compute Instance
 => 2024/2024-05-21_New_Hobby_Birding.gmi 2024-05-21 My New Hobby: Birding with Merlin Bird ID
 => 2024/2024-04-22_Revisiting_my_views_about_Mastodon.gmi 2024-04-22 Revisiting my views about Mastodon

@@ -4,6 +4,8 @@ Welcome to my Gemini capsule which is a close replica of
 
 => https://rohitfarmer.com
 
+=> rohitfarmer_2022.jpg My profile photo from 2022
+
 I am a computational biologist by training, with interests in the outdoors, self-hosting, Ham radio, and FOSS. Expect to see content on all these aspects on this website.
 
 ## Site Navigation
