@@ -11,9 +11,14 @@ Feed aggregator
 
 ## Gemini personal blogs and websites
 
+```
+* ratings
+```
+
 => gemini://kwiecien.us/ Ben's website
 => gemini://gemini.conman.org/ Conman laboratories
 => gemini://gemini.ctrl-c.club/~lettuce/ Lettuce gemlog
+=> gemini://nicholasjohnson.ch/ Nicholas Johnson *****
 => gemini://perma.computer Perma computer
 => gemini://seirdy.one/ Rohan Kumar's capsule
 => gemini://sarushka.flounder.online/ Sarah Hinlicky Wilson (theology etc)

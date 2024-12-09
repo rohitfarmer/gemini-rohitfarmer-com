@@ -2,6 +2,11 @@
 
 => / Home
 
+## 2024-12-09 15:26:47 UTC
+Today, I read this beautifully written article, "Planning for an Uncertain Future" (link below), by Nicholas Johnson, on his Gemini website. I may not agree with all the details that he mentioned, which sounded very confident and methodological, but I do agree with the overall message that too much future planning at the expense of current joy and life fulfillment is futile. So, do today what you can do today to live a better life than worrying or overplanning for your future.
+
+=>gemini://nicholasjohnson.ch/2024/12/09/planning-for-an-uncertain-future/ Planning for an Uncertain Future
+
 ## 2024-12-05 19:58:15 UTC
 I am working with a data frame with 53 million rows and 28 columns, which I stored as a .feather binary file. On the disk, it's around 5 GB. Fortunately, I am working on an HPC and have ample RAM to load the entire data frame on the memory. However, working with such a huge file is slow and cumbersome.     
 
