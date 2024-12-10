@@ -1,0 +1,36 @@
+=> / Home
+=> /gemlog Gemlog
+
+# Generative AI and Me: Rediscovering the Value of Personal Experiences in Writing
+
+=> google-deepmind-Oy2yXvl1WLg-unsplash.jpg An artist’s illustration of artificial intelligence (AI). 
+
+The creative industry is mad at the advancement and use of generative AI, which not only stole their work to train the generative models such as ChatGPT but also threatened their job as a cheap replacement for some low-caliber jobs. They should be rightly so, as none of them were consulted/consented in the reproduction of a cheaper version of their work. Having said that, I must admit that I use ChatGPT to write code. It has tremendously improved the speed at which I can code and find information. Which previously meant Googling and going through stacks of answers on Stack Overflow. Now, I can ask ChatGPT what I want, and it gives me a ready-to-use answer. How well it writes the code depends on how well I can explain the problem. I also use other forms of AI, such as Grammarly, which is helpful for me as I am linguistically challenged. Even after trying hard, I can not always write correct grammar in English or Hindi.
+
+In the words of Ed Yong, one of my favorite science writers, "There is no ethical way to use AI." With all due respect, I neither accept nor deny this statement, but I do acknowledge that many more learned people than I am have already raised their voices on both sides.
+
+I consider the use of generative AI, especially Large Language Models (LLMs), as an extension of search, which, if used as a tool, can be helpful, direct, and fast. I also see it as a replacement for many websites that publish concepts and tutorials that do not necessarily contain the author's views or personal experiences. In my opinion, this is good as it will help weed out bogus and repetitive websites that cloud the information space with low-quality content and aim to game the search and social media for click baits. Suppose a user is merely looking for an explanation of a textbook concept, tutorial, example code, or exercise without the anecdotal experiences of a human teacher. In that case, they can ask ChatGPT straight away rather than going through multiple websites to find a minuscule amount of information buried under a multitude of advertisement banners and animations. 
+
+As a blogger, it alleviates the burden of writing technical articles and tutorials unless I have an opinion or a personal experience to share that can not be reproduced by ChatGPT. My views and life experiences are my own. A machine can write a fictional experience based on its training examples. Still, they can never be Rohit Farmer's experiences, which grow with every passing moment. This means I can now write about myself, my thoughts, and my life and try to connect with people, not in a way to pass on the data (which ChatGPT can do) but to relate as a fellow human being. 
+
+I feel the pain of the professional writers whose livelihoods depend on it, and that should not be replaced by anything, but for me, this is liberating!
+
+**Note:** I used Grammarly while writing this post and ChatGPT to infer a title based on the content—this was its sixth suggestion. 
+
+### Reply via email
+Have thoughts, feedback, or questions? Feel free to write to me at:
+
+=> mailto:rohit@rohitfarmer.com rohit@rohitfarmer.com
+
+### Interact
+Comment and join the discussion on the following platform(s):
+
+=> https://fosstodon.org/@swatantra/113625773673170687 Mastodon
+=> https://bsky.app/profile/rohitfarmer.com/post/3lcvzhxm4f22m Bluesky
+=> https://www.linkedin.com/posts/rohitfarmer_rohit-farmer-generative-ai-and-me-rediscovering-activity-7272050699302055936-A7jU?utm_source=share&utm_medium=member_desktop LinkedIn
+
+### Crosspost
+This post is also available at:
+
+=> https://rohitfarmer.com/posts/2024/generative-ai-and-me/
+
