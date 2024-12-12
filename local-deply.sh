@@ -1,1 +1,1 @@
-rsync -av --no-times --delete --exclude '*.git*' --no-group ./capsule/ /home/gemini/capsule/
+rsync -vr --delete --exclude '*.git*' ./capsule/ /home/gemini/capsule/
