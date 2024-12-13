@@ -13,6 +13,7 @@ on topics related to data science and
 on topics related to outdoor activities.
 
 ## 2024
+=> 2024/2024-12-12_Legacy_Mortality_and_the_Unseen_Cost_of_Wealth.gmi 2024-12-12 Legacy Mortality and the Unseen Cost of Wealth
 => 2024/2024-12-09_Generative_AI_and_Me.gmi 2024-12-09 Generative AI and Me: Rediscovering the Value of Personal Experiences in Writing
 => 2024/2024-12-06_Rainbow_Cake_and_Harris_Teeter.gmi 2024-12-06 Rainbow Cake and Harris Teeter
 => 2024/2024-11-27_How_to_Setup_a_Gemini_Capsule.gmi 2024-11-27 How to Setup a Gemini Capsule/Website on a Google Cloud Compute Instance
