@@ -1,0 +1,97 @@
+=> / Home
+=> /gemlog Gemlog
+
+# Default Apps 2024
+
+All the favorite people I follow online have posted their "default apps" 2024 posts. So, under unspoken peer pressure, I decided to do the same.
+
+## Operating Systems
+
+*   **Work:** MacOS
+*   **Home server:** Linux Mint
+*   **Home general:** Windows 10
+*   **Phone:** Android
+
+## Internet
+
+*   **Web browser (work):** Chrome
+*   **Web browser (home and phone):** Firefox and Fennec
+*   **Gemini browser:** Amfora (command line), Lagrange (GUI) and Geopard (Linux)
+*   **IRC client:** Weechat (command line), HexChat (GUI), and Revolution IRC (phone)
+*   **XMPP client (phone):** Monocles and Conversations
+*   **Mastodon client (phone):** Tusky
+*   **Lemmy client (phone):** Voyager
+*   **RSS clent (phone):** Feedly
+*   **Email provider:** Proton Mail, Gmail (for historical reasons)
+*   **VPN:** Proton VPN
+*   **Cloud storage:** pCloud, Proton Drive, and Google Drive (for Google Docs)
+*   **Torrent client:** Deluge
+*   **File transfer:** FileZilla
+*   **Static site generator:** Quarto
+
+## Productivity
+
+*   **Calendar:** Gmail (personal) and Outlook (work)
+*   **ToDo (phone):** Tasks
+*   **Notes:** Simplenote, Standard Notes, Obsidian
+
+## Utility
+
+*   **File explorer (phone):** Cx File Explorer
+*   **Voice recorder (phone):** Samsung's Voice Recorder
+*   **Speech to text translator:** Vibe (Linux)
+*   **Phone to computer sync:** FolderSync (Android app)
+*   **Bookmark:** Raindrop (Firefox and Chrome extension)
+*   **Password manager:** Bitwarden
+*   **Ether pad:** [https://pad.disroot.org](https://pad.disroot.org)
+*   **Editor:** NVIM (Linux, MacOS), Visual Studio Code (Linux, MacOS), and RStudio (MacOS)
+*   **Terminal:** iTerm (MacOS), Termius (Phone)
+*   **Server monitoring:** ServerBox (Android app)
+*   **E-books:** ReadEra Premium (phone), Kindle (phone), Hoopla (public library books), Caliber (personal collection management)
+*   **Bible:** ESV, Our Daily Bread
+*   **Dictionary:** WordWeb (phone)
+*   **PDF manipulation:** PDF Arranger and Okular
+*   **Image manipulation and illustration:** Gimp and Inkscape
+*   **Rsync:** Grsync (Linux)
+*   **Remote disk mount:** Gigolo (Linux)
+  
+## Outdoors
+
+*   **Hiking:** AllTrails
+*   **Survival:** Survival Manual (offline)
+*   **Geocaching:** Geocaching (official app)
+*   **Parks:** MD DNR, Recreation.gov, and NPS
+*   **Weather:** Weather Bug
+*   **Fishing:** Fishing Spots, Fishbrain
+*   **Birding:** Merlin Bird ID
+*   **Maps:** Google Maps and OsmAnd+
+
+## Audio and Video
+
+*   **Plex:** music and movies (home server)
+*   **Media player:** VLC (every where)
+*   **Radio:** Jazz Radio (phone)
+*   **Streaming:** Prime Video, Spotify (free)
+*   **Video editing:** Kdenline and HandBrake
+*   **Audio tagging:** MusicBrainz Picard
+
+## Ham Radio
+
+*   **Ham radio dashboard:** [https://rohitfarmer.com/ham-dash](https://rohitfarmer.com/ham-dash)
+*   **Logger:** Google Sheet
+
+### Reply via email
+Have thoughts, feedback, or questions? Feel free to write to me at:
+
+=> mailto:rohit@rohitfarmer.com rohit@rohitfarmer.com
+
+### Interact
+Comment and join the discussion on the following platform(s):
+
+=> https://fosstodon.org/@swatantra/113748463325603598 Mastodon
+=> https://bsky.app/profile/rohitfarmer.com/post/3lemj25nopk22 Bluesky
+
+### Crosspost
+This post is also available at:
+
+=> https://rohitfarmer.com/posts/2024/default-apps-2024/
