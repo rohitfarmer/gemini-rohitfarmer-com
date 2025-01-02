@@ -1,0 +1,47 @@
+=> / Home
+=> /gemlog Gemlog
+
+# Goals 2025
+
+I don’t make New Year’s resolutions, especially not the extreme ones like hitting the gym every day. Let’s face it—those rarely last beyond a few weeks. Instead, I like to dedicate each year to focusing on something specific. For instance, in 2024, I concentrated on improving my fishing and stand-up paddleboarding skills. In 2023, my focus was on camping and building out my camping gear, while 2022 was all about swimming and exploring beaches. While I’ve achieved most of my outdoor goals over the years, I’ve fallen short in academic pursuits, like keeping up with blogging for my data science and personal platforms.
+
+For 2025, my primary focus will shift to writing more consistently across all three of my platforms:  
+=> https://outdoorsyindians.com Outdoorsy Indians
+=> https://dataalltheway.com Data All The Way
+=> https://rohitfarmer.com Rohit Farmer
+
+This shift doesn’t mean I’m neglecting outdoor or fitness-related activities; instead, I plan to set more realistic expectations. In 2022, I attempted the [#100DaysToOffload](https://100daystooffload.com/) challenge, which required writing 100 posts in a year. While it started strong, the pace of one post every three days quickly became overwhelming. Missing deadlines led to disinterest, and eventually, I stopped writing altogether.  
+
+For 2025, I’ll prioritize continuity over volume. Instead of cramming as much as I can or chasing unrealistic challenges, I’ll focus on maintaining a steady rhythm. I’d rather publish a few articles consistently than burn out by over committing. Similarly, I’ll approach fitness and exercise with sustainable, balanced goals.
+
+Beyond writing and fitness, I also plan to resume my long-lost photography hobby, which I’ve neglected for years. While I don’t have a detailed plan in place yet, I’m committed to making deliberate efforts to reintroduce it into my life, letting creativity flow naturally and enjoying the process without pressure.
+
+Here’s my plan for 2025:  
+
+1.  Blogging: Write at least one blog post per month for each platform—three posts per month in total. This feels much more achievable than trying to write every few days.  
+2.  YouTube (Outdoorsy Indians)](https://www.youtube.com/@OutdoorsyIndians): Create one video per month if I’m handling editing alone, with more frequent uploads if friends can assist.  
+3.  Exercise & Gym: Commit to at least two 45-minute to 1-hour sessions per week.  
+
+These are minimum targets; I’ll always welcome doing more if it feels sustainable. My priority is balance—ensuring no single goal overshadows others or leads to burnout.  
+
+To stay on track, I plan to find an accountability partner who can check in with me periodically. I’ve also created a Google Sheet  to log my progress and keep myself accountable. 
+
+=> https://docs.google.com/spreadsheets/d/114Yi1Eg1asjtC9kZ5TVoNPvBDu4gek1u6MghwKcPmR4/edit?usp=sharing Google Sheet
+
+By focusing on realistic, continuous effort rather than chasing overly ambitious goals, I hope 2025 will be a year of steady growth and fulfillment.
+
+### Have thoughts, feedback, or questions? Feel free to write to me at:
+
+=> mailto:rohit@rohitfarmer.com rohit@rohitfarmer.com
+
+### Interact
+Comment and join the discussion on the following platform(s):
+
+=> https://fosstodon.org/@swatantra/113759303676164982 Mastodon
+=> https://bsky.app/profile/rohitfarmer.com/post/3lerd2jiiv22m Bluesky
+
+### Crosspost
+This post is also available at:
+
+=> https://rohitfarmer.com/posts/2025/goals-2025/
+

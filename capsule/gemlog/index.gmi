@@ -12,6 +12,9 @@ on topics related to data science and
 
 on topics related to outdoor activities.
 
+## 2025
+=> 2025/2025-01-02-goals-2025.gmi 2025-01-02 Goals 2025
+
 ## 2024
 => 2024/2024-12-31_Default_Apps_2024.gmi 2024-12-31 Default Apps 2024
 => 2024/2024-12-19_Gear_Software_Workflows_2024.gmi 2024-12-19 Tech and Tools of 2024: My Gear, Software, and Workflow Updates
