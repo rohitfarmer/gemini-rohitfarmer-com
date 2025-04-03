@@ -2,6 +2,13 @@
 
 => / Home
 
+author: @rohit@rohitfarmer.com
+avatar: :)
+license: © 2018 - present Rohit Farmer
+
+## 2025-04-03 14:26:28 UTC
+After a long hiatus, I have resumed listening to audiobooks in my car since I started commuting to work daily. The best part is that I borrow audiobooks from my local Montgomery County, Maryland library. In the past three weeks, I finished listening to Analog Church/Christian by Jay Y. Kim and am now listening to The Revenge of Analog by David Sax. Public libraries in the USA are a blessing and a massive resource that few people tap into. 
+
 ## 2024-12-10 20:45:08 UTC
 Yesterday, I wrote a blog post on the use of Generative AI in writing and how it alleviates the pressure on me to write about trivial things and start sharing my personal views and experiences. I posted the link to the post on the social media including LinkedIn thinking that I will receive some response from the cummunity, but I didn't. So, it was a bit disappointing. 
 
