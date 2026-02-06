@@ -17,7 +17,7 @@ I am a computational biologist by training, with interests in the outdoors, self
 => /bookmarks.gmi Bookmarks
 
 ## E-mail
-rohit@rohitfarmer.com
+=> mailto:rohit@rohitfarmer.com rohit@rohitfarmer.com
 
 ----
 Made with ✌️ ❤️ ☕.
