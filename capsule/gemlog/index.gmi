@@ -13,6 +13,8 @@ on topics related to data science and
 on topics related to outdoor activities.
 
 ## 2026
+=> 2026/2026-02-01-social-media-is-not-social-networking-anymore.gmi 2026-02-01 Social Media Is Not Social Networking (Anymore)
+=> 2026/2026-01-28-reading-the-immune-systems-memory.gmi 2026-01-28 Why More Scientists Should Have a Personal Blog
 => 2026/2026-01-20-why-more-scientists-should-have-a-personal-blog.gmi 2026-01-20 Why More Scientists Should Have a Personal Blog
 
 ## 2025

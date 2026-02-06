@@ -1,0 +1,101 @@
+=> / Home
+=> /gemlog Gemlog
+
+# Reading the Immune System's Memory with PhIP-Seq
+
+(A plain-language look at how I use PhIP-Seq and a single blood test to track immune history across spaceflight, chronic disease, and childhood infections.)
+
+When people ask me what I work on, I usually pause. Not because I don’t know—but because the honest answer involves words that don’t belong in everyday conversation. One of those words is **[PhIP-Seq](https://doi.org/10.1038/s41596-018-0025-6)**.
+
+So here’s the plain-language version.
+
+At its core, my work is about understanding **what the immune system remembers**—and how that memory changes under different conditions. PhIP-Seq is the tool that lets us read that memory in remarkable detail.
+
+## The Immune System as a Living Archive
+
+Every infection you’ve ever had leaves a trace.
+
+When your body encounters a virus or bacterium, it creates [antibodies](https://en.wikipedia.org/wiki/Antibody) that recognize specific pieces of that microbe. Many of those antibodies stick around long after the infection is gone. Over time, your blood becomes a kind of **biological archive**—a record of past encounters.
+
+*PhIP-Seq allows us to read that archive.*
+
+Instead of testing for one virus at a time, PhIP-Seq can measure antibody responses to **thousands of viral and microbial proteins at once**, using a single blood sample. It does this by presenting the immune system with a massive library of tiny protein fragments and seeing which ones antibodies latch onto.
+
+The result is a detailed snapshot of immune history and activity.
+
+## Astronauts in Space: Tracking Immune Stability Beyond Earth
+
+One of my current projects uses PhIP-Seq to study **11 NASA astronauts** across **7 different time points**, spanning:
+
+* Before spaceflight
+* During spaceflight
+* After returning to Earth
+
+Spaceflight puts the human body under conditions it never evolved for—microgravity, increased radiation exposure, disrupted sleep, and prolonged stress. All of these can affect the immune system.
+
+Using PhIP-Seq, we can follow antibody responses over time and ask:
+
+* Does immune memory remain stable in space?
+* Do certain antiviral responses weaken or strengthen?
+* Are there lasting immune changes after returning to Earth?
+
+Instead of relying on isolated measurements, this approach lets us see **patterns over time**, providing a deeper view of how the immune system adapts in extreme environments.
+
+## HIV and the Gut: When Microbes Cross the Line
+
+Another project focuses on people living with **HIV**, and this one looks beyond viruses alone.
+
+In healthy individuals, the gut forms a strong barrier between the body and the trillions of microbes living inside it. In HIV, that barrier can become compromised. Microbial components from the gut—sometimes entire microbes or fragments of them—can **leak into the bloodstream**, a process known as **[microbial translocation](https://doi.org/10.1038/nrmicro2848)**.
+
+This constant immune exposure can drive chronic inflammation.
+
+Using PhIP-Seq, we study antibody responses to microbes that are normally confined to the gut. By comparing HIV-positive and HIV-negative individuals, we can detect:
+
+* Differences in immune responses to gut-associated microbes
+* Evidence of long-term immune stimulation from translocated microbiome components
+* Distinct immune “signatures” associated with barrier disruption
+
+Rather than measuring inflammation indirectly, PhIP-Seq allows us to see **what the immune system is actually reacting to**, offering a clearer picture of how gut health and immune health are linked.
+
+## Enteroviruses and Children: Seasonal Immune Shifts
+
+A third project focuses on **enteroviruses**, a large family of viruses that tend to circulate seasonally and disproportionately affect children.
+
+One member of this family, **[Enterovirus D68 (EV-D68)](https://en.wikipedia.org/wiki/Enterovirus_68)**, has drawn particular attention in recent years because of its association with severe respiratory illness and, in rare cases, neurological complications in children.
+
+In this project, we use PhIP-Seq to compare antibody responses:
+
+* **Before** enterovirus seasons
+* **After** seasonal circulation peaks
+
+This lets us observe:
+
+* How children’s immune systems respond to seasonal exposure
+* Which antibody responses increase following outbreaks
+* How broadly the immune system reacts across related enteroviruses
+
+By looking at these changes over time, we can better understand population-level immune responses and how exposure during childhood shapes long-term immunity.
+
+## Why This Work Matters to Me
+
+What ties all of these projects together—astronauts, HIV, and childhood viral infections—is the idea that **the immune system is constantly learning and adapting**.
+
+PhIP-Seq gives us a way to read that learning process:
+
+* Across time
+* Across environments
+* Across health and disease
+
+A small vial of blood can tell a surprisingly rich story—about where the immune system has been, what it has fought, and how it continues to respond.
+
+That’s the story I spend my days trying to understand.
+
+
+### Have thoughts, feedback, or questions? Feel free to write to me at:
+
+=> mailto:rohit@rohitfarmer.com rohit@rohitfarmer.com
+
+### Crosspost
+This post is also available at:
+
+=> https://rohitfarmer.com/posts/2026/reading-the-immune-systems-memory/

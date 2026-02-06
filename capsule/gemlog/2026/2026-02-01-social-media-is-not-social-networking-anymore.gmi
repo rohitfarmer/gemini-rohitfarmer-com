@@ -1,0 +1,94 @@
+=> / Home
+=> /gemlog Gemlog
+
+# Social Media Is Not Social Networking (Anymore)
+
+(From friends’ updates to endless feeds: rethinking what “social” means on the internet today.)
+
+For a long time, I’ve felt that something about “social media” doesn’t quite sit right with me—and the more I think about it, the clearer the distinction becomes: **most platforms we call social networks today are no longer about networking at all**. They are primarily **media consumption platforms**.
+
+In my understanding, *social networks* exist to help people connect with friends, family, and communities. *Social media platforms*, as they exist today, are optimized to keep us scrolling, watching, reacting, and consuming—often passively. The social part has become secondary.
+
+What makes this especially interesting is that many of the biggest platforms **started** as genuine social networks. Over time, though, their incentives shifted. Once advertising became the primary revenue model, the user stopped being the customer and became the product. Engagement—not connection—became the metric that mattered.
+
+### From Friends to Feeds
+
+I still have accounts on most major platforms, largely for historical reasons. Years of photos, connections, and memories are hard to walk away from. But whenever I log in now, the experience is strikingly similar across platforms:
+
+* I see **more ads and promoted content** than updates from people I know
+* Posts from friends and family are buried, reordered, or disappear entirely
+* I end up **doom scrolling** through algorithmically amplified content created by strangers
+* I leave knowing more about viral outrage than about what’s happening in my own circle
+
+This is true across most Meta products—Facebook and Instagram included—and it’s equally true on X. The feed is no longer *your* network; it’s a curated media stream designed to maximize attention.
+
+At that point, calling these platforms “social networks” feels misleading. They function much more like personalized television channels—endless, addictive, and optimized for ad delivery.
+
+### Mastodon and the Fediverse Feel Different
+
+The only platform that still feels like a **true social network** to me today is Mastodon, and more broadly, the Fediverse.
+
+Mastodon is often compared to X/Twitter because of its microblogging format, and that comparison is fair at a surface level. It doesn’t replace Facebook or Instagram one-to-one. But the *experience* is fundamentally different—and that difference matters.
+
+First, there are **no engagement-driven algorithms** deciding what you should see. Your feed shows:
+
+* Posts from people you follow
+* In chronological order
+* With no injected “recommended for you” content
+
+That alone dramatically changes how the platform feels. You read updates because you’re interested in the people you follow, not because an algorithm decided something might keep you hooked.
+
+### Interest-Driven Communities, Not Attention Markets
+
+Another key difference is how communities form. Mastodon is made up of many independently run servers, called *instances*, each with its own focus and culture. You choose where to sign up based on your interests.
+
+For example, I’m on **[fosstodon.org](https://fosstodon.org/@rohitfarmer)**, an instance centered around free and open-source software. As a result, the majority of posts I see—especially in the local timeline—are about topics I genuinely care about. That creates a sense of shared context that’s almost completely missing on mainstream platforms.
+
+And yet, this isn’t a walled garden.
+
+Because Mastodon is **federated**, I can follow and interact with people on other Mastodon instances—or even other platforms that support the ActivityPub protocol. My account isn’t locked into one company’s ecosystem. The network exists *between* communities, not inside a single corporate platform (e.g. Facebook or X).
+
+That’s a powerful idea.
+
+Think of federated systems like email: you can sign up with any email provider, for example, Gmail, Outlook, or your work domain, but you can still email each other. Gmail users are not locked into only emailing other Gmail users. 
+
+### Networking vs. Consumption
+
+This is where the distinction really matters.
+
+On most mainstream platforms today, the default behavior is **passive consumption**:
+
+* Scroll
+* Watch
+* React
+* Repeat
+
+On Mastodon and the wider Fediverse, the default behavior is **intentional networking**:
+
+* Choose your community
+* Follow people you’re interested in
+* Read updates in context
+* Participate when you want
+
+There’s no incentive for the system to manipulate your attention. No one is trying to keep you angry, anxious, or endlessly engaged. The result is a calmer, more human experience.
+
+### A Gentle Rethink
+
+I’m not arguing that everyone needs to delete their accounts tomorrow. Network effects are real, and people are where their people are. But I *do* think it’s worth pausing to ask a simple question:
+
+> Am I networking here—or am I just consuming media?
+
+Once you see the difference, it’s hard to unsee it.
+
+If you’re curious, I strongly encourage you to try Mastodon or another Fediverse service—whether as a replacement or simply as an addition to your online presence. Spend a little time in a space that isn’t optimized to extract attention, and see how it feels.
+
+You might be surprised how social a social network can be when it’s actually designed to be one.
+
+### Have thoughts, feedback, or questions? Feel free to write to me at:
+
+=> mailto:rohit@rohitfarmer.com rohit@rohitfarmer.com
+
+### Crosspost
+This post is also available at:
+
+=> https://rohitfarmer.com/posts/2026/social-media-is-not-social-networking/
