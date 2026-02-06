@@ -21,5 +21,5 @@ I am a computational biologist by training, with interests in the outdoors, self
 
 ----
 Made with ✌️ ❤️ ☕.
-Copyright 2018-present Rohit Farmer
-You are on my personal website; hence none of the content on this website reflects the views of any of my past or present employers.
+© 2018–2026 Rohit Farmer. Content licensed under CC BY 4.0.
+Disclaimer: The views and opinions expressed on this website are my own and do not reflect those of my past or present employers. 
