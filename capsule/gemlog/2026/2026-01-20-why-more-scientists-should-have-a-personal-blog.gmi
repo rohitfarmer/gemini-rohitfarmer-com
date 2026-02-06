@@ -1,0 +1,56 @@
+=> / Home
+=> /gemlog Gemlog
+
+# Why More Scientists Should Have a Personal Blog
+
+(A reflection on why scientists should write publicly, in their own voices, to build trust, counter misinformation, and make science feel more human.)
+
+I strongly believe that more scientists and academics should have a personal blog—one where they write not just about their research papers, but about their work, their thinking, and their lives as scientists. Not in the formal, polished language of journals or grant proposals, but in a more relaxed, human way.
+
+The point of this kind of writing isn’t to replace academic publishing. Papers, preprints, and technical reports are essential. But they’re written for a very specific audience. A personal blog, on the other hand, is an opportunity to step outside that professional bubble and engage with people who are curious but not necessarily trained in your field.
+
+When we talk about “public engagement with science,” it often ends up being handled by a very small number of people. In the U.S., it’s figures like Neil deGrasse Tyson, Ed Yong and Carl Zimmer. In the UK, Brian Cox or Alice Robert–type communicators (depending on the field). They’re excellent at what they do, no question about it. But the problem is that a scientific community made up of hundreds of thousands of researchers ends up being represented by a handful of familiar faces.
+
+*And that concentration creates a problem.*
+
+When only a few people become the public face of science, it becomes easy for conspiracy theories to take root. Someone can always claim that “Neil is paid by climate scientists to push an agenda,” or that “these TV scientists are controlled by some shadowy group promoting evolution or climate change or vaccines.” It doesn’t matter how absurd those claims are—once the narrative takes hold, it spreads.
+
+It’s much harder to claim a conspiracy when hundreds or thousands of scientists across the world are independently saying similar things, in their own voices, from their own lived experience. You might be able to “buy” one showman, as conspiracy theorists like to claim—but you can’t buy out an entire global research community.
+
+*That’s where personal blogs, YouTube channels, newsletters, and podcasts come in.*
+
+If more of us wrote about our niche areas—addressed to a general audience, without jargon, without ego—it would go a long way toward building trust. People don’t need every scientist to be charismatic or viral. They just need to see that scientists are normal people doing careful, honest work, often with doubts, limitations, and incremental progress rather than dramatic breakthroughs.
+
+*I know the objections, because I feel them too.*
+
+Time is the biggest one. Academia already demands more than it reasonably should—research, teaching, administration, grant writing, mentoring, reviewing, conferences. On top of that, why should we also have to explain and justify our work to the public? Especially when we’re already doing our jobs honestly and rigorously.
+
+That’s a fair question. But I genuinely believe that the long-term payoff of broader public engagement outweighs the extra effort. More understanding leads to more trust. More trust leads to better science funding, better policy decisions, and less hostility toward expertise as a whole.
+
+Another very real fear is online abuse. Many people want to write publicly but hold back because they’re afraid of nasty comments, bad-faith arguments, or outright trolling. And yes, that risk is real. The internet can be cruel.
+
+*But there are ways to reduce that risk.*
+
+Stick to what you actually know. Write about the things you’re an expert in, or at least deeply familiar with. That way, if someone challenges you, you’re on solid ground. Avoid commenting on every hot-button issue just because it’s trending. You don’t need to have an opinion on everything.
+
+Equally important: don’t mix scientific communication with political or religious advocacy. Those beliefs may be important to you personally—and that’s fine—but they’re better discussed separately, not bundled together with your scientific work. Keeping that separation helps prevent unnecessary conflict and keeps the focus on evidence rather than ideology.
+
+Tone matters too. Writing in a non-judgmental, non-divisive way goes a long way. You don’t need to “win” arguments. Often, just explaining how things work, why certain conclusions are reached, and what uncertainties remain is enough.
+
+*One final point: writing has never been easier than it is today.*
+
+You don’t have to be a great writer. You don’t even have to be confident in the language you’re writing in. Large language models, tools like ChatGPT, and editing assistants like Grammarly can help turn rough thoughts into readable text. You still provide the ideas, the expertise, and the honesty—the tools just help smooth the edges.
+
+That’s one of the reasons I write myself. Not because I think my voice is uniquely important, but because I want more people like me to write too. The more diverse, distributed, and human the voices of science become, the harder it will be to dismiss science as distant, elitist, or conspiratorial.
+
+So consider this both an encouragement and a challenge: start writing. Start small. A blog post, a short video, a simple newsletter—whatever medium you’re most comfortable with. Your voice doesn’t need to be perfect. It just needs to exist.
+
+
+### Have thoughts, feedback, or questions? Feel free to write to me at:
+
+=> mailto:rohit@rohitfarmer.com rohit@rohitfarmer.com
+
+### Crosspost
+This post is also available at:
+
+=> https://rohitfarmer.com/posts/2026/why-more-scientists-should-have-a-personal-blog/

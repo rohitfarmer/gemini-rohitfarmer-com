@@ -2,6 +2,27 @@
 
 Website url: [gemini://rohitfarmer.com](gemini://rohitfarmer.com)
 
+## Post Template
+
+```markdown
+=> / Home
+=> /gemlog Gemlog
+
+# Title
+
+(Subtitle or description)
+
+
+### Have thoughts, feedback, or questions? Feel free to write to me at:
+
+=> mailto:rohit@rohitfarmer.com rohit@rohitfarmer.com
+
+### Crosspost
+This post is also available at:
+
+=> https://rohitfarmer.com/posts/2025/bring-your-bible-back/
+```
+
 ## Folder Setup
 
 On the GCP instance I created a `gemini` as a new user with it's home directory. 
