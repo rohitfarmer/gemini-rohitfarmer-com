@@ -119,13 +119,23 @@ Licensing is less about defending against the worst-case user and more about wel
 If you’re not writing primarily to extract value, but to **contribute something that lasts**, then making your work easier to use — clearly, legally, and generously — is often the most effective way to ensure it survives.
 
 A good license doesn’t weaken your authorship.
+
 It gives your work room to breathe.
-
-### Have thoughts, feedback, or questions? Feel free to write to me at:
-
-=> mailto:rohit@rohitfarmer.com rohit@rohitfarmer.com
 
 ### Crosspost
 This post is also available at:
 
 => https://rohitfarmer.com/posts/2026/choosing-a-license-for-literary-work/
+
+### Have thoughts, feedback, or questions? Feel free to write to me at:
+
+=> mailto:rohit@rohitfarmer.com rohit@rohitfarmer.com
+
+Comments:
+
+The comment below comes from [@autistic_writer](https://mastodon.social/@autistic_writer) on Mastodon. You can read the full thread for context here: https://mastodon.social/@autistic_writer/116025220763568504.
+
+[@rohitfarmer](https://fosstodon.org/@rohitfarmer/116008029476731664) Thanks for this. The biggest restriction has to CC BY-NC-ND. Credit must be give, only noncommercial uses of the work are permitted, and no derivatives or adaptations of the work are permitted.
+
+If an author's truly paranoid, this will be for them. But like you said, no license will stop bad actors. Which raises the valuable question, is a license really worth it?
+
